@@ -1,0 +1,75 @@
+ERROR - 2023-12-05 12:51:54 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in /var/www/html/niua_vibes_amplifi/system/Database/Postgre/Connection.php:75
+Stack trace:
+#0 /var/www/html/niua_vibes_amplifi/system/Database/BaseConnection.php(391): CodeIgniter\Database\Postgre\Connection->connect()
+#1 /var/www/html/niua_vibes_amplifi/system/Database/BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/niua_vibes_amplifi/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/html/niua_vibes_amplifi/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/html/niua_vibes_amplifi/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#5 /var/www/html/niua_vibes_amplifi/app/Controllers/Administrator/Admin.php(28): CodeIgniter\BaseModel->findAll()
+#6 /var/www/html/niua_vibes_amplifi/system/CodeIgniter.php(934): App\Controllers\Administrator\Admin->validatelogin()
+#7 /var/www/html/niua_vibes_amplifi/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/html/niua_vibes_amplifi/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/html/niua_vibes_amplifi/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-12-05 12:51:54 --> Unable to connect to the database.
+Main connection [Postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Controllers/Administrator/Admin.php(28): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Administrator\Admin->validatelogin()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 12:55:54 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in /var/www/html/niua_vibes_amplifi/system/Database/Postgre/Connection.php:75
+Stack trace:
+#0 /var/www/html/niua_vibes_amplifi/system/Database/BaseConnection.php(391): CodeIgniter\Database\Postgre\Connection->connect()
+#1 /var/www/html/niua_vibes_amplifi/system/Database/BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/niua_vibes_amplifi/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/html/niua_vibes_amplifi/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/html/niua_vibes_amplifi/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#5 /var/www/html/niua_vibes_amplifi/app/Controllers/Administrator/Admin.php(28): CodeIgniter\BaseModel->findAll()
+#6 /var/www/html/niua_vibes_amplifi/system/CodeIgniter.php(934): App\Controllers\Administrator\Admin->validatelogin()
+#7 /var/www/html/niua_vibes_amplifi/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/html/niua_vibes_amplifi/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/html/niua_vibes_amplifi/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-12-05 12:55:54 --> Unable to connect to the database.
+Main connection [Postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Controllers/Administrator/Admin.php(28): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Administrator\Admin->validatelogin()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 12:57:56 --> Error connecting to the database: Error: Call to undefined function CodeIgniter\Database\Postgre\pg_connect() in /var/www/html/niua_vibes_amplifi/system/Database/Postgre/Connection.php:75
+Stack trace:
+#0 /var/www/html/niua_vibes_amplifi/system/Database/BaseConnection.php(391): CodeIgniter\Database\Postgre\Connection->connect()
+#1 /var/www/html/niua_vibes_amplifi/system/Database/BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/niua_vibes_amplifi/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/html/niua_vibes_amplifi/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/html/niua_vibes_amplifi/system/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+#5 /var/www/html/niua_vibes_amplifi/app/Controllers/Administrator/Admin.php(28): CodeIgniter\BaseModel->findAll()
+#6 /var/www/html/niua_vibes_amplifi/system/CodeIgniter.php(934): App\Controllers\Administrator\Admin->validatelogin()
+#7 /var/www/html/niua_vibes_amplifi/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/html/niua_vibes_amplifi/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/html/niua_vibes_amplifi/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-12-05 12:57:56 --> Unable to connect to the database.
+Main connection [Postgre]: Call to undefined function CodeIgniter\Database\Postgre\pg_connect()
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Controllers/Administrator/Admin.php(28): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Administrator\Admin->validatelogin()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

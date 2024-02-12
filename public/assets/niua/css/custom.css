@@ -1,0 +1,36 @@
+.overAllProgress{
+height: 15px;
+}
+/*.progressRow{margin-top: -70px;}*/
+.save-part {z-index: 9;display: grid;justify-content: end;}
+
+/* New  Dashboard Design */
+/**grid sec breack**/
+@media (min-width: 768px){
+.seven-cols .col-md-1,
+.seven-cols .col-sm-1,
+.seven-cols .col-lg-1  {
+width: 100%;
+*width: 100%;
+}
+}
+
+@media (min-width: 992px) {
+.seven-cols .col-md-1,
+.seven-cols .col-sm-1,
+.seven-cols .col-lg-1 {
+width: 14.285714285714285714285714285714%;
+*width: 14.285714285714285714285714285714%;
+}
+}
+
+@media (min-width: 1200px) {
+.seven-cols .col-md-1,
+.seven-cols .col-sm-1,
+.seven-cols .col-lg-1 {
+width: 14.285714285714285714285714285714%;
+*width: 14.285714285714285714285714285714%;
+}
+}
+.seven-cols .navbar-brand{line-height:75px;margin-top:30px;}
+.swal-wide{width:650px !important;}

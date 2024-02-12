@@ -1,0 +1,953 @@
+State,Name of the ULB,Ambala,State Abbreviation,City Sl.No.,City Login IDs,Password,City_Type
+ARUNACHAL PRADESH,Naharlagun (NT),Ambala Sadar,AR,168,Naharlagun,Naharlagun$^/168,Other City
+ASSAM,Kokrajhar (MB),Ambarnath,AS,119,Kokrajhar,Kokrajhar$^/119,Other City
+ASSAM,Gauripur (TC),Ambattur,AS,74,Gauripur,Gauripur$^/74,Other City
+ASSAM,Bilasipara (TC),Ambejogai,AS,16,Bilasipara,Bilasipara$^/16,Other City
+ASSAM,Barpeta Road (MB),Ambikapur,AS,16,Barpeta Road,Barpeta Road$^/16,Other City
+ASSAM,Barpeta (MB),Ambur,AS,16,Barpeta,Barpeta$^/16,Other City
+ASSAM,Marigaon (MB),Amreli,AS,134,Marigaon,Marigaon$^/134,Other City
+ASSAM,Hojai (MB),Amroha,AS,86,Hojai,Hojai$^/86,Other City
+ASSAM,Lumding (MB),Anaiyur,AS,134,Lumding,Lumding$^/134,Other City
+ASSAM,Lanka (MB),Anakapalle,AS,119,Lanka,Lanka$^/119,Other City
+ASSAM,Silapathar (TC),Anand,AS,231,Silapathar,Silapathar$^/231,Other City
+ASSAM,Margherita (TC),Anantapur,AS,134,Margherita,Margherita$^/134,Other City
+ASSAM,Golaghat (MB),Anantnag,AS,74,Golaghat,Golaghat$^/74,Other City
+ASSAM,Haflong (TC),Anjangaon,AS,86,Haflong,Haflong$^/86,Other City
+ASSAM,Hailakandi (MB),Anjar,AS,86,Hailakandi,Hailakandi$^/86,Other City
+ASSAM,Rangia (MB),Anklesvar,AS,168,Rangia,Rangia$^/168,Other City
+ASSAM,Nalbari (MB),Aonla,AS,168,Nalbari,Nalbari$^/168,Other City
+ASSAM,Mangaldoi (MB),Arakonam,AS,134,Mangaldoi,Mangaldoi$^/134,Other City
+HIMACHAL PRADESH,Mandi (M Cl),Arambag,HP,134,Mandi,Mandi$^/134,Other City
+HIMACHAL PRADESH,Baddi (M Cl),Arani,HP,16,Baddi,Baddi$^/16,Other City
+HIMACHAL PRADESH,Solan (M Cl),Araria,HP,238,Solan,Solan$^/238,Other City
+HIMACHAL PRADESH,Nahan (M Cl),Arcot,HP,168,Nahan,Nahan$^/168,Other City
+HIMACHAL PRADESH,Paonta Sahib (M Cl),Arrah,HP,168,Paonta Sahib,Paonta Sahib$^/168,Other City
+JAMMU AND KASHMIR,Punch (M Cl),Arsikere,J&K,168,Punch,Punch$^/168,Other City
+JAMMU AND KASHMIR,Rajauri (MC),Aruppukkottai,J&K,168,Rajauri,Rajauri$^/168,Other City
+JAMMU AND KASHMIR,Bandipore (MC),Arwal,J&K,16,Bandipore,Bandipore$^/16,Other City
+JAMMU AND KASHMIR,Ganderbal (MC),Ashokenagar Kalyangarh,J&K,74,Ganderbal,Ganderbal$^/74,Other City
+JAMMU AND KASHMIR,Udhampur (M Cl),Ashoknagar,J&K,238,Udhampur,Udhampur$^/238,Other City
+LADAKH,Leh Ladakh (MC),Ashta,LA,134,Leh Ladakh,Leh Ladakh$^/134,Other City
+MANIPUR,Thoubal (MCI),Atrauli,MN,238,Thoubal,Thoubal$^/238,Other City
+MANIPUR,Kakching (M Cl),Attur,MN,98,Kakching,Kakching$^/98,Other City
+MEGHALAYA,Nongstoin (TC),Auraiya,ML,168,Nongstoin,Nongstoin$^/168,Other City
+MEGHALAYA,Jowai (M),Aurangabad,ML,98,Jowai,Jowai$^/98,Other City
+MIZORAM,Champhai (NT),Avadi,MZ,16,Champhai,Champhai$^/16,Other City
+MIZORAM,Saiha (NT),Avaniapuram,MZ,223,Saiha,Saiha$^/223,Other City
+NAGALAND,Mon (TC),Ayodhya,NL,134,Mon,Mon$^/134,Other City
+NAGALAND,Mokokchung (MC),Azamgarh,NL,134,Mokokchung,Mokokchung$^/134,Other City
+NAGALAND,Wokha (TC),Baddi,NL,236,Wokha,Wokha$^/236,Other City
+NAGALAND,Chumukedima (TC),Badlapur,NL,55,Chumukedima,Chumukedima$^/55,Other City
+NAGALAND,Tuensang (TC),Baduria,NL,238,Tuensang,Tuensang$^/238,Other City
+TRIPURA,Udaipur (NP),Badvel,TR,238,Udaipur,Udaipur$^/238,Other City
+TRIPURA,Dharmanagar (NP),Bagaha,TR,55,Dharmanagar,Dharmanagar$^/55,Other City
+UTTARAKHAND,Mussoorie (NPP),Bagalkot,UK,168,Mussoorie,Mussoorie$^/168,Other City
+UTTARAKHAND,Pauri (NPP),Baghpat,UK,168,Pauri,Pauri$^/168,Other City
+UTTARAKHAND,Kotdwara (NPP),Bahadurgarh,UK,119,Kotdwara,Kotdwara$^/119,Other City
+UTTARAKHAND,Nainital (NPP),Baheri,UK,168,Nainital,Nainital$^/168,Other City
+UTTARAKHAND,Bajpur (NPP),Bahraich,UK,16,Bajpur,Bajpur$^/16,Other City
+UTTARAKHAND,Kichha (NPP),Baidyabati,UK,119,Kichha,Kichha$^/119,Other City
+UTTARAKHAND,Sitarganj (NPP),Bajpur,UK,238,Sitarganj,Sitarganj$^/238,Other City
+ANDHRA PRADESH,Anakapalle (M),Balaghat,AP,11,Anakapalle,Anakapalle$^/11,Other City
+ANDHRA PRADESH,Badvel (M),Balangir,AP,16,Badvel,Badvel$^/16,Other City
+ANDHRA PRADESH,Bapatla (M),Baleshwar,AP,16,Bapatla,Bapatla$^/16,Other City
+ANDHRA PRADESH,Bheemunipatnam (M),Ballarpur,AP,16,Bheemunipatnam,Bheemunipatnam$^/16,Other City
+ANDHRA PRADESH,Bobbili (M),Ballia,AP,16,Bobbili,Bobbili$^/16,Other City
+ANDHRA PRADESH,Chirala (M),Bally,AP,16,Chirala,Chirala$^/16,Other City
+ANDHRA PRADESH,Dhone (NP),Balotra,AP,55,Dhone,Dhone$^/55,Other City
+ANDHRA PRADESH,Gudur (M),Balrampur,AP,74,Gudur,Gudur$^/74,Other City
+ANDHRA PRADESH,Jaggaiahpet (M),Balurghat,AP,86,Jaggaiahpet,Jaggaiahpet$^/86,Other City
+ANDHRA PRADESH,Kadiri (M),Banda,AP,98,Kadiri,Kadiri$^/98,Other City
+ANDHRA PRADESH,Kandukur (M),Bandipore,AP,119,Kandukur,Kandukur$^/119,Other City
+ANDHRA PRADESH,Kavali (M),Bankura,AP,119,Kavali,Kavali$^/119,Other City
+ANDHRA PRADESH,Macherla (M),Bansberia,AP,134,Macherla,Macherla$^/134,Other City
+ANDHRA PRADESH,Mandapeta (M),Banswara,AP,134,Mandapeta,Mandapeta$^/134,Other City
+ANDHRA PRADESH,Mangalagiri (M),Bapatla,AP,134,Mangalagiri,Mangalagiri$^/134,Other City
+ANDHRA PRADESH,Markapur (M),Baramati,AP,134,Markapur,Markapur$^/134,Other City
+ANDHRA PRADESH,Nagari (M),Baramula,AP,168,Nagari,Nagari$^/168,Other City
+ANDHRA PRADESH,Narasapur (M),Baran,AP,168,Narasapur,Narasapur$^/168,Other City
+ANDHRA PRADESH,Nuzvid (M),Baranagar,AP,168,Nuzvid,Nuzvid$^/168,Other City
+ANDHRA PRADESH,Palacole (M),Barasat,AP,168,Palacole,Palacole$^/168,Other City
+ANDHRA PRADESH,Palamaner (M),Barauni,AP,168,Palamaner,Palamaner$^/168,Other City
+ANDHRA PRADESH,Palasa Kasibugga (M),Baraut,AP,168,Palasa Kasibugga,Palasa Kasibugga$^/168,Other City
+ANDHRA PRADESH,Parvathipuram (M),Barbil,AP,168,Parvathipuram,Parvathipuram$^/168,Other City
+ANDHRA PRADESH,Piduguralla (NP),Barddhaman,AP,168,Piduguralla,Piduguralla$^/168,Other City
+ANDHRA PRADESH,Pithapuram (M),Bardoli,AP,168,Pithapuram,Pithapuram$^/168,Other City
+ANDHRA PRADESH,Ponnur (M),Bargarh,AP,168,Ponnur,Ponnur$^/168,Other City
+ANDHRA PRADESH,Pulivendla (M),Barh,AP,168,Pulivendla,Pulivendla$^/168,Other City
+ANDHRA PRADESH,Punganur (M),Bari,AP,168,Punganur,Punganur$^/168,Other City
+ANDHRA PRADESH,Puttur (M),Baripada,AP,168,Puttur,Puttur$^/168,Other City
+ANDHRA PRADESH,Rayachoti (M),Barmer,AP,214,Rayachoti,Rayachoti$^/214,Other City
+ANDHRA PRADESH,Rayadurg (M),Barnala,AP,214,Rayadurg,Rayadurg$^/214,Other City
+ANDHRA PRADESH,Repalle (M),Barpeta,AP,214,Repalle,Repalle$^/214,Other City
+ANDHRA PRADESH,Samalkot (M),Barpeta Road,AP,223,Samalkot,Samalkot$^/223,Other City
+ANDHRA PRADESH,Sattenapalle (M),Barrackpore,AP,231,Sattenapalle,Sattenapalle$^/231,Other City
+ANDHRA PRADESH,Srikalahasti (M),Barshi,AP,238,Srikalahasti,Srikalahasti$^/238,Other City
+ANDHRA PRADESH,Tadepalle (M),Baruipur,AP,238,Tadepalle,Tadepalle$^/238,Other City
+ANDHRA PRADESH,Tanuku (M),Barwani,AP,238,Tanuku,Tanuku$^/238,Other City
+ANDHRA PRADESH,Tuni (M),Basavakalyan,AP,238,Tuni,Tuni$^/238,Other City
+ANDHRA PRADESH,Venkatagiri (M),Basirhat,AP,236,Venkatagiri,Venkatagiri$^/236,Other City
+ANDHRA PRADESH,Vinukonda (M),Basmath,AP,236,Vinukonda,Vinukonda$^/236,Other City
+ANDHRA PRADESH,Yemmiganur (M),Basoda,AP,236,Yemmiganur,Yemmiganur$^/236,Other City
+ARUNACHAL PRADESH,Itanagar (NT),Basti,AR,86,Itanagar,Itanagar$^/86,Other City
+ASSAM,Bongaigaon (MB),Batala,AS,16,Bongaigaon,Bongaigaon$^/16,Other City
+ASSAM,Dhubri (MB),Bathinda,AS,55,Dhubri,Dhubri$^/55,Other City
+ASSAM,Diphu (TC),Beawar,AS,55,Diphu,Diphu$^/55,Other City
+ASSAM,Goalpara (MB),Begusarai,AS,74,Goalpara,Goalpara$^/74,Other City
+ASSAM,Jorhat (MB),Bela Pratapgarh,AS,98,Jorhat,Jorhat$^/98,Other City
+ASSAM,Karimganj (MB),Belgaum,AS,119,Karimganj,Karimganj$^/119,Other City
+ASSAM,North Lakhimpur (MB),Bellampalle,AS,168,North Lakhimpur,North Lakhimpur$^/168,Other City
+ASSAM,Sivasagar (MB),Bellary,AS,238,Sivasagar,Sivasagar$^/238,Other City
+ASSAM,Tezpur (MB),Benipur,AS,238,Tezpur,Tezpur$^/238,Other City
+ASSAM,Tinsukia (MB),Berhampore,AS,238,Tinsukia,Tinsukia$^/238,Other City
+BIHAR,Araria (Nagar Parishad),Bettiah,BH,16,Araria,Araria$^/16,Other City
+BIHAR,Arwal (Nagar Parishad),Betul,BH,16,Arwal,Arwal$^/16,Other City
+BIHAR,Barauni (Nagar Parishad),Bhabua,BH,16,Barauni,Barauni$^/16,Other City
+BIHAR,Barh (Nagar Parishad),Bhadohi,BH,16,Barh,Barh$^/16,Other City
+BIHAR,Benipur (Nagar Parishad),Bhadrak,BH,16,Benipur,Benipur$^/16,Other City
+BIHAR,Bhabua (Nagar Parishad),Bhadravati,BH,16,Bhabua,Bhabua$^/16,Other City
+BIHAR,Bihat (Nagar Parishad),Bhadravati,BH,16,Bihat,Bihat$^/16,Other City
+BIHAR,Daudnagar (NP),Bhadreswar,BH,55,Daudnagar,Daudnagar$^/55,Other City
+BIHAR,Dumraon (Nagar Parishad),Bhagalpur,BH,55,Dumraon,Dumraon$^/55,Other City
+BIHAR,Fatwah (NP),Bhandara,BH,74,Fatwah,Fatwah$^/74,Other City
+BIHAR,Forbesganj (Nagar Parishad),Bharatpur,BH,74,Forbesganj,Forbesganj$^/74,Other City
+BIHAR,Gopalganj (Nagar Parishad),Bharuch,BH,74,Gopalganj,Gopalganj$^/74,Other City
+BIHAR,Hilsa (Nagar Parishad),Bhatapara,BH,86,Hilsa,Hilsa$^/86,Other City
+BIHAR,Jamui (Nagar Parishad),Bhatpara,BH,98,Jamui,Jamui$^/98,Other City
+BIHAR,Lakhisarai (Nagar Parishad),Bhawanipatna,BH,119,Lakhisarai,Lakhisarai$^/119,Other City
+BIHAR,Madhepura (Nagar Parishad),Bheemunipatnam,BH,134,Madhepura,Madhepura$^/134,Other City
+BIHAR,Madhubani (Nagar Parishad),Bhilai Charoda,BH,134,Madhubani,Madhubani$^/134,Other City
+BIHAR,Masaurhi (Nagar Parishad),Bhilwara,BH,134,Masaurhi,Masaurhi$^/134,Other City
+BIHAR,Mokameh (Nagar Parishad),Bhimavaram,BH,134,Mokameh,Mokameh$^/134,Other City
+BIHAR,Nawada (Nagar Parishad),Bhind,BH,168,Nawada,Nawada$^/168,Other City
+BIHAR,Phulwari Sharif (Nagar Parishad),Bhiwadi,BH,168,Phulwari Sharif,Phulwari Sharif$^/168,Other City
+BIHAR,Raxaul Bazar  (Nagar Parishad),Bhiwani,BH,214,Raxaul Bazar ,Raxaul Bazar $^/214,Other City
+BIHAR,Samastipur (Nagar Parishad),Bhongir,BH,223,Samastipur,Samastipur$^/223,Other City
+BIHAR,Sheikhpura (Nagar Parishad),Bhuj,BH,231,Sheikhpura,Sheikhpura$^/231,Other City
+BIHAR,Sitamarhi (Nagar Parishad),Bhusawal,BH,238,Sitamarhi,Sitamarhi$^/238,Other City
+BIHAR,Sultanganj (Nagar Parishad),Bid,BH,238,Sultanganj,Sultanganj$^/238,Other City
+BIHAR,Supaul (Nagar Parishad),Bidar,BH,238,Supaul,Supaul$^/238,Other City
+BIHAR,Teghra (NP),Bidhannagar,BH,238,Teghra,Teghra$^/238,Other City
+CHHATTISGARH,Bhatapara (M),Biharsharif,CG,16,Bhatapara,Bhatapara$^/16,Other City
+CHHATTISGARH,Bhilai Charoda (M),Bihat,CG,16,Bhilai Charoda,Bhilai Charoda$^/16,Other City
+CHHATTISGARH,Birgaon (M),Bijapur,CG,16,Birgaon,Birgaon$^/16,Other City
+CHHATTISGARH,Chirmiri (M.Corp) ,Bijnor,CG,16,Chirmiri,Chirmiri$^/16,Other City
+CHHATTISGARH,Dhamtari (M),Bilasipara,CG,55,Dhamtari,Dhamtari$^/55,Other City
+CHHATTISGARH,Mahasamund (M),Bilaspur,CG,134,Mahasamund,Mahasamund$^/134,Other City
+DADRA & NAGAR HAVELI,Silvassa (M CI),Bilimora,DDN,231,Silvassa,Silvassa$^/231,Other City
+GOA,Margao (M Cl),Bina Etawa,GA,134,Margao,Margao$^/134,Other City
+GOA,Mormugao (M Cl),Birgaon,GA,168,Mormugao,Mormugao$^/168,Other City
+GUJARAT,Anjar (M),Bisalpur,GJ,16,Anjar,Anjar$^/16,Other City
+GUJARAT,Anklesvar (M),Bishnupur,GJ,16,Anklesvar,Anklesvar$^/16,Other City
+GUJARAT,Bardoli (M),Biswan,GJ,16,Bardoli,Bardoli$^/16,Other City
+GUJARAT,Bilimora (M),Bobbili,GJ,16,Bilimora,Bilimora$^/16,Other City
+GUJARAT,Borsad (M),Bodhan,GJ,16,Borsad,Borsad$^/16,Other City
+GUJARAT,Dabhoi (M),Bodinayakanur,GJ,55,Dabhoi,Dabhoi$^/55,Other City
+GUJARAT,Dholka (M),Bolpur,GJ,55,Dholka,Dholka$^/55,Other City
+GUJARAT,Dhoraji (M),Bongaigaon,GJ,55,Dhoraji,Dhoraji$^/55,Other City
+GUJARAT,Dhrangadhra (M),Bongaon,GJ,55,Dhrangadhra,Dhrangadhra$^/55,Other City
+GUJARAT,Dohad (M),Borsad,GJ,55,Dohad,Dohad$^/55,Other City
+GUJARAT,Halol (M),Botad,GJ,86,Halol,Halol$^/86,Other City
+GUJARAT,Himatnagar (M),Brahmapur,GJ,86,Himatnagar,Himatnagar$^/86,Other City
+GUJARAT,Kadi (M),Brajarajnagar,GJ,98,Kadi,Kadi$^/98,Other City
+GUJARAT,Keshod (M),Budaun,GJ,119,Keshod,Keshod$^/119,Other City
+GUJARAT,Khambhat (M),Budge Budge,GJ,119,Khambhat,Khambhat$^/119,Other City
+GUJARAT,Mahuva (M),Bulandshahr,GJ,134,Mahuva,Mahuva$^/134,Other City
+GUJARAT,Mandvi (M),Buldana,GJ,134,Mandvi,Mandvi$^/134,Other City
+GUJARAT,Mangrol (M),Bundi,GJ,134,Mangrol,Mangrol$^/134,Other City
+GUJARAT,Modasa (M),Burhanpur,GJ,134,Modasa,Modasa$^/134,Other City
+GUJARAT,Okha (M),Buxar,GJ,168,Okha,Okha$^/168,Other City
+GUJARAT,Palitana (M),Chaibasa,GJ,168,Palitana,Palitana$^/168,Other City
+GUJARAT,Petlad (M),Chakardharpur,GJ,168,Petlad,Petlad$^/168,Other City
+GUJARAT,Savarkundla (M),Chakdaha,GJ,231,Savarkundla,Savarkundla$^/231,Other City
+GUJARAT,Sidhpur (M),Chalisgaon,GJ,231,Sidhpur,Sidhpur$^/231,Other City
+GUJARAT,Sihor (M),Challakere,GJ,231,Sihor,Sihor$^/231,Other City
+GUJARAT,Una (M),Chamarajanagar,GJ,236,Una,Una$^/236,Other City
+GUJARAT,Unjha (M),Champdani,GJ,236,Unjha,Unjha$^/236,Other City
+GUJARAT,Upleta (M),Champhai,GJ,236,Upleta,Upleta$^/236,Other City
+GUJARAT,Vijalpor (M),Chandannagar,GJ,236,Vijalpor,Vijalpor$^/236,Other City
+GUJARAT,Viramgam (M),Chandausi,GJ,236,Viramgam,Viramgam$^/236,Other City
+GUJARAT,Visnagar (M),Chandpur,GJ,236,Visnagar,Visnagar$^/236,Other City
+GUJARAT,Wadhwan (M),Chandrapur,GJ,236,Wadhwan,Wadhwan$^/236,Other City
+HARYANA,Charkhi Dadri (MC),Channapatna,HR,16,Charkhi Dadri,Charkhi Dadri$^/16,Other City
+HARYANA,Fatehabad (M Cl),Chapra,HR,74,Fatehabad,Fatehabad$^/74,Other City
+HARYANA,Gohana (MC),Charkhi Dadri,HR,74,Gohana,Gohana$^/74,Other City
+HARYANA,Hansi (M Cl),Chas,HR,86,Hansi,Hansi$^/86,Other City
+HARYANA,Hodal (MC),Chengalpattu,HR,86,Hodal,Hodal$^/86,Other City
+HARYANA,Mandi Dabwali (MC),Chhatarpur,HR,134,Mandi Dabwali,Mandi Dabwali$^/134,Other City
+HARYANA,Narnaul (M Cl),Chhibramau,HR,168,Narnaul,Narnaul$^/168,Other City
+HARYANA,Narwana (M Cl),Chhindwara,HR,168,Narwana,Narwana$^/168,Other City
+HARYANA,Tohana (M Cl),Chidambaram,HR,238,Tohana,Tohana$^/238,Other City
+JAMMU AND KASHMIR,Baramula (M Cl),Chikhli,J&K,16,Baramula,Baramula$^/16,Other City
+JAMMU AND KASHMIR,Kathua (M Cl),Chikkaballapura,J&K,119,Kathua,Kathua$^/119,Other City
+JAMMU AND KASHMIR,Sopore (M Cl),Chikmagalur,J&K,238,Sopore,Sopore$^/238,Other City
+JHARKHAND,Chaibasa (Nagar Parishad),Chilakaluripet,JH,16,Chaibasa,Chaibasa$^/16,Other City
+JHARKHAND,Chakardharpur (Nagar Parishad),Chintamani,JH,16,Chakardharpur,Chakardharpur$^/16,Other City
+JHARKHAND,Gumla (NP),Chiplun,JH,74,Gumla,Gumla$^/74,Other City
+JHARKHAND,Jhumri Tilaiya (Nagar Parishad),Chirala,JH,98,Jhumri Tilaiya,Jhumri Tilaiya$^/98,Other City
+JHARKHAND,Lohardaga (Nagar Parishad),Chirmiri,JH,134,Lohardaga,Lohardaga$^/134,Other City
+JHARKHAND,Madhupur (Nagar Parishad),Chitradurga,JH,134,Madhupur,Madhupur$^/134,Other City
+JHARKHAND,Medininagar (Daltonganj) (Nagar Parishad),Chitrakoot Dham,JH,134,Medininagar (Daltonganj),Medininagar (Daltonganj)$^/134,Other City
+JHARKHAND,Phusro (Nagar Parishad),Chittaurgarh,JH,168,Phusro,Phusro$^/168,Other City
+JHARKHAND,Sahibganj (Nagar Parishad),Chittoor,JH,223,Sahibganj,Sahibganj$^/223,Other City
+KARNATAKA,Arsikere (TMC),Chomu,KA,16,Arsikere,Arsikere$^/16,Other City
+KARNATAKA,Basavakalyan (CMC),Chopda,KA,16,Basavakalyan,Basavakalyan$^/16,Other City
+KARNATAKA,Challakere (TMC),Chumukedima,KA,16,Challakere,Challakere$^/16,Other City
+KARNATAKA,Chamarajanagar (CMC),Churu,KA,16,Chamarajanagar,Chamarajanagar$^/16,Other City
+KARNATAKA,Channapatna (CMC),City,KA,16,Channapatna,Channapatna$^/16,Other City
+KARNATAKA,Chikkaballapura (CMC),Contai,KA,16,Chikkaballapura,Chikkaballapura$^/16,Other City
+KARNATAKA,Chintamani (CMC),Cuddalore,KA,16,Chintamani,Chintamani$^/16,Other City
+KARNATAKA,Dandeli (CMC),Dabhoi,KA,55,Dandeli,Dandeli$^/55,Other City
+KARNATAKA,Dod Ballapur (CMC),Dabra,KA,55,Dod Ballapur,Dod Ballapur$^/55,Other City
+KARNATAKA,Gokak (CMC),Dadri,KA,74,Gokak,Gokak$^/74,Other City
+KARNATAKA,Harihar (CMC),Dahanu,KA,86,Harihar,Harihar$^/86,Other City
+KARNATAKA,Haveri (CMC),Damoh,KA,86,Haveri,Haveri$^/86,Other City
+KARNATAKA,Hiriyur (TMC),Dandeli,KA,86,Hiriyur,Hiriyur$^/86,Other City
+KARNATAKA,Hosakote (TMC),Dankuni,KA,86,Hosakote,Hosakote$^/86,Other City
+KARNATAKA,Hunsur (TMC),Darbhanga,KA,86,Hunsur,Hunsur$^/86,Other City
+KARNATAKA,Ilkal (CMC),Darjiling,KA,86,Ilkal,Ilkal$^/86,Other City
+KARNATAKA,Jamkhandi (CMC),Datia,KA,86,Jamkhandi,Jamkhandi$^/86,Other City
+KARNATAKA,Kanakapura (TMC),Daudnagar,KA,119,Kanakapura,Kanakapura$^/119,Other City
+KARNATAKA,Karwar (CMC),Dausa,KA,119,Karwar,Karwar$^/119,Other City
+KARNATAKA,Kollegal (CMC),Davanagere,KA,119,Kollegal,Kollegal$^/119,Other City
+KARNATAKA,Koppal (CMC),Deesa,KA,119,Koppal,Koppal$^/119,Other City
+KARNATAKA,Mudhol (TMC),Deglur,KA,168,Mudhol,Mudhol$^/168,Other City
+KARNATAKA,Mulbagal (TMC),Dehri,KA,168,Mulbagal,Mulbagal$^/168,Other City
+KARNATAKA,Nanjangud (TMC),Deoband,KA,168,Nanjangud,Nanjangud$^/168,Other City
+KARNATAKA,Nipani  (CMC),Deoghar ,KA,168,Nipani ,Nipani $^/168,Other City
+KARNATAKA,Puttur (TMC),Deoria,KA,168,Puttur,Puttur$^/168,Other City
+KARNATAKA,Rabkavi Banhatti (CMC),Devakottai,KA,168,Rabkavi Banhatti,Rabkavi Banhatti$^/168,Other City
+KARNATAKA,Ramanagara (CMC),Dewas,KA,168,Ramanagara,Ramanagara$^/168,Other City
+KARNATAKA,Sagar (CMC),Dhampur,KA,223,Sagar,Sagar$^/223,Other City
+KARNATAKA,Shahpur (TMC),Dhamtari,KA,231,Shahpur,Shahpur$^/231,Other City
+KARNATAKA,Shorapur (TMC),Dhar,KA,231,Shorapur,Shorapur$^/231,Other City
+KARNATAKA,Sidlaghatta (TMC),Dharapuram,KA,231,Sidlaghatta,Sidlaghatta$^/231,Other City
+KARNATAKA,Sindhnur (CMC),Dharmanagar,KA,231,Sindhnur,Sindhnur$^/231,Other City
+KARNATAKA,Sira (CMC),Dharmapuri,KA,238,Sira,Sira$^/238,Other City
+KARNATAKA,Sirsi (CMC),Dharmavaram,KA,238,Sirsi,Sirsi$^/238,Other City
+KARNATAKA,Siruguppa (TMC),Dhaulpur,KA,238,Siruguppa,Siruguppa$^/238,Other City
+KARNATAKA,Tiptur (CMC),Dhenkanal,KA,238,Tiptur,Tiptur$^/238,Other City
+KARNATAKA,Ullal (TMC),Dholka,KA,236,Ullal,Ullal$^/236,Other City
+KARNATAKA,Yadgir (CMC),Dhone,KA,236,Yadgir,Yadgir$^/236,Other City
+KERALA,Kalamassery (M),Dhoraji,KL,119,Kalamassery,Kalamassery$^/119,Other City
+KERALA,Kanhangad (M),Dhrangadhra,KL,119,Kanhangad,Kanhangad$^/119,Other City
+KERALA,Kannur (M),Dhubri,KL,119,Kannur,Kannur$^/119,Other City
+KERALA,Kasaragod (M),Dhule,KL,119,Kasaragod,Kasaragod$^/119,Other City
+KERALA,Kayamkulam (M),Dhulian,KL,119,Kayamkulam,Kayamkulam$^/119,Other City
+KERALA,Kottayam (M),Dhuri,KL,119,Kottayam,Kottayam$^/119,Other City
+KERALA,Kunnamkulam (M),Dibrugarh,KL,119,Kunnamkulam,Kunnamkulam$^/119,Other City
+KERALA,Malappuram (M),Didwana,KL,134,Malappuram,Malappuram$^/134,Other City
+KERALA,Manjeri (M),Dimapur,KL,134,Manjeri,Manjeri$^/134,Other City
+KERALA,Nedumangad (M),Dinapur Nizamat,KL,168,Nedumangad,Nedumangad$^/168,Other City
+KERALA,Neyyattinkara (M),Dindigul,KL,168,Neyyattinkara,Neyyattinkara$^/168,Other City
+KERALA,Ottappalam (M),Diphu,KL,168,Ottappalam,Ottappalam$^/168,Other City
+KERALA,Payyannur (M),Dod Ballapur,KL,168,Payyannur,Payyannur$^/168,Other City
+KERALA,Ponnani (M),Dohad,KL,168,Ponnani,Ponnani$^/168,Other City
+KERALA,Quilandy (M),Dum Dum,KL,168,Quilandy,Quilandy$^/168,Other City
+KERALA,Taliparamba (M),Dumraon,KL,238,Taliparamba,Taliparamba$^/238,Other City
+KERALA,Thalassery (M),Dungargarh,KL,238,Thalassery,Thalassery$^/238,Other City
+KERALA,Thiruvalla (M),Durg,KL,238,Thiruvalla,Thiruvalla$^/238,Other City
+KERALA,Thodupuzha (M),Edappadi,KL,238,Thodupuzha,Thodupuzha$^/238,Other City
+KERALA,Thrippunithura (M),Eluru,KL,238,Thrippunithura,Thrippunithura$^/238,Other City
+KERALA,Tirur (M),English Bazar,KL,238,Tirur,Tirur$^/238,Other City
+KERALA,Vadakara (M),Erode,KL,236,Vadakara,Vadakara$^/236,Other City
+MADHYA PRADESH,Ashoknagar (M),Etah,MP,16,Ashoknagar,Ashoknagar$^/16,Other City
+MADHYA PRADESH,Ashta (M),Etawah,MP,16,Ashta,Ashta$^/16,Other City
+MADHYA PRADESH,Balaghat (M),Faizabad,MP,16,Balaghat,Balaghat$^/16,Other City
+MADHYA PRADESH,Barwani (M),Faridkot,MP,16,Barwani,Barwani$^/16,Other City
+MADHYA PRADESH,Basoda (M),Faridpur,MP,16,Basoda,Basoda$^/16,Other City
+MADHYA PRADESH,Bina- Etawa (M),Farrukhabad cum Fatehgarh,MP,16,Bina- Etawa,Bina- Etawa$^/16,Other City
+MADHYA PRADESH,Dabra (M),Fatehabad,MP,55,Dabra,Dabra$^/55,Other City
+MADHYA PRADESH,Dhar (M),Fatehpur,MP,55,Dhar,Dhar$^/55,Other City
+MADHYA PRADESH,Gohad (M),Fatehpur,MP,74,Gohad,Gohad$^/74,Other City
+MADHYA PRADESH,Harda (M),Fatwah,MP,86,Harda,Harda$^/86,Other City
+MADHYA PRADESH,Itarsi (M),Fazilka,MP,86,Itarsi,Itarsi$^/86,Other City
+MADHYA PRADESH,Jaora (M),Firozpur,MP,98,Jaora,Jaora$^/98,Other City
+MADHYA PRADESH,Khurai (M),Forbesganj,MP,119,Khurai,Khurai$^/119,Other City
+MADHYA PRADESH,Kolar (M),Gadag Betigeri,MP,119,Kolar,Kolar$^/119,Other City
+MADHYA PRADESH,Mandideep (M),Gadchiroli,MP,134,Mandideep,Mandideep$^/134,Other City
+MADHYA PRADESH,Narsimhapur (M),Gadwal,MP,168,Narsimhapur,Narsimhapur$^/168,Other City
+MADHYA PRADESH,Panna (M),Gajraula,MP,168,Panna,Panna$^/168,Other City
+MADHYA PRADESH,Raghogarh -Vijaypur (M),Ganderbal,MP,168,Raghogarh -Vijaypur,Raghogarh -Vijaypur$^/168,Other City
+MADHYA PRADESH,Sarni (M),Gandhidham,MP,223,Sarni,Sarni$^/223,Other City
+MADHYA PRADESH,Sendhwa (M),Gandhinagar,MP,231,Sendhwa,Sendhwa$^/231,Other City
+MADHYA PRADESH,Shahdol (M),Gangaghat,MP,231,Shahdol,Shahdol$^/231,Other City
+MADHYA PRADESH,Shajapur (M),Ganganagar,MP,231,Shajapur,Shajapur$^/231,Other City
+MADHYA PRADESH,Sheopur (M),Gangapur City,MP,231,Sheopur,Sheopur$^/231,Other City
+MADHYA PRADESH,Shujalpur (M),Gangarampur,MP,231,Shujalpur,Shujalpur$^/231,Other City
+MADHYA PRADESH,Sidhi (M),Gangawati,MP,231,Sidhi,Sidhi$^/231,Other City
+MADHYA PRADESH,Sironj (M),Gangoh,MP,238,Sironj,Sironj$^/238,Other City
+MADHYA PRADESH,Tikamgarh (M),Gangtok,MP,238,Tikamgarh,Tikamgarh$^/238,Other City
+MAHARASHTRA,Ambejogai (M Cl),Garulia,MH,11,Ambejogai,Ambejogai$^/11,Other City
+MAHARASHTRA,Anjangaon (M Cl),Gauripur,MH,16,Anjangaon,Anjangaon$^/16,Other City
+MAHARASHTRA,Ballarpur (M Cl),Gaya,MH,16,Ballarpur,Ballarpur$^/16,Other City
+MAHARASHTRA,Baramati (M Cl),Gayespur,MH,16,Baramati,Baramati$^/16,Other City
+MAHARASHTRA,Basmath (M Cl),Ghatal,MH,16,Basmath,Basmath$^/16,Other City
+MAHARASHTRA,Bhadravati (M Cl),Ghazipur,MH,16,Bhadravati,Bhadravati$^/16,Other City
+MAHARASHTRA,Bhandara (M Cl),Giridih,MH,16,Bhandara,Bhandara$^/16,Other City
+MAHARASHTRA,Buldana (M Cl),Goalpara,MH,16,Buldana,Buldana$^/16,Other City
+MAHARASHTRA,Chalisgaon(M Cl),Gobichettipalayam,MH,16,Chalisgaon,Chalisgaon$^/16,Other City
+MAHARASHTRA,Chikhli (M Cl),Gobindgarh,MH,16,Chikhli,Chikhli$^/16,Other City
+MAHARASHTRA,Chiplun (M Cl),Godhra,MH,16,Chiplun,Chiplun$^/16,Other City
+MAHARASHTRA,Chopda (M Cl) ,Gohad,MH,55,Chopda,Chopda$^/55,Other City
+MAHARASHTRA,Dahanu (M Cl),Gohana,MH,55,Dahanu,Dahanu$^/55,Other City
+MAHARASHTRA,Deglur (M Cl),Gokak,MH,55,Deglur,Deglur$^/55,Other City
+MAHARASHTRA,Gadchiroli (M Cl),Gola Gokaran Nath,MH,74,Gadchiroli,Gadchiroli$^/74,Other City
+MAHARASHTRA,Hingoli (M Cl),Golaghat,MH,86,Hingoli,Hingoli$^/86,Other City
+MAHARASHTRA,Kamptee (M Cl),Gonda,MH,119,Kamptee,Kamptee$^/119,Other City
+MAHARASHTRA,Karad (M Cl),Gondal,MH,119,Karad,Karad$^/119,Other City
+MAHARASHTRA,Karanja (M Cl),Gondiya,MH,119,Karanja,Karanja$^/119,Other City
+MAHARASHTRA,Khamgaon (M Cl),Gopalganj,MH,119,Khamgaon,Khamgaon$^/119,Other City
+MAHARASHTRA,Khopoli (M Cl),Goundampalayam,MH,119,Khopoli,Khopoli$^/119,Other City
+MAHARASHTRA,Kopargaon (M Cl),Gudivada,MH,119,Kopargaon,Kopargaon$^/119,Other City
+MAHARASHTRA,Lonavala (M Cl),Gudiyatham,MH,134,Lonavala,Lonavala$^/134,Other City
+MAHARASHTRA,Malkapur (M Cl),Gudur,MH,134,Malkapur,Malkapur$^/134,Other City
+MAHARASHTRA,Manmad (M Cl),Gulaothi,MH,134,Manmad,Manmad$^/134,Other City
+MAHARASHTRA,Pachora (M Cl) ,Gumla,MH,168,Pachora,Pachora$^/168,Other City
+MAHARASHTRA,Palghar (M Cl),Guna,MH,168,Palghar,Palghar$^/168,Other City
+MAHARASHTRA,Pandharpur (M Cl),Guntakal,MH,168,Pandharpur,Pandharpur$^/168,Other City
+MAHARASHTRA,Parli (M Cl),Gurdaspur,MH,168,Parli,Parli$^/168,Other City
+MAHARASHTRA,Phaltan (M Cl),Habra,MH,168,Phaltan,Phaltan$^/168,Other City
+MAHARASHTRA,Pusad (M Cl),Haflong,MH,168,Pusad,Pusad$^/168,Other City
+MAHARASHTRA,Ratnagiri (M Cl),Hailakandi,MH,214,Ratnagiri,Ratnagiri$^/214,Other City
+MAHARASHTRA,Sangamner (M Cl),Hajipur,MH,223,Sangamner,Sangamner$^/223,Other City
+MAHARASHTRA,Shahade (M Cl),Haldia,MH,231,Shahade,Shahade$^/231,Other City
+MAHARASHTRA,Shegaon (M Cl),Haldia,MH,231,Shegaon,Shegaon$^/231,Other City
+MAHARASHTRA,Shirpur-Warwade (M Cl) ,Haldwani cum Kathgodam,MH,231,Shirpur-Warwade,Shirpur-Warwade$^/231,Other City
+MAHARASHTRA,Shrirampur (M Cl),Halisahar,MH,231,Shrirampur,Shrirampur$^/231,Other City
+MAHARASHTRA,Sillod (M Cl),Halol,MH,231,Sillod,Sillod$^/231,Other City
+MAHARASHTRA,Sinnar (M Cl),Hansi,MH,238,Sinnar,Sinnar$^/238,Other City
+MAHARASHTRA,Talegaon Dabhade (M Cl),Hanumangarh,MH,238,Talegaon Dabhade,Talegaon Dabhade$^/238,Other City
+MAHARASHTRA,Umred (M Cl),Hapur,MH,236,Umred,Umred$^/236,Other City
+MAHARASHTRA,Uran Islampur (M Cl),Harda,MH,236,Uran Islampur,Uran Islampur$^/236,Other City
+MAHARASHTRA,Wani (M Cl),Hardoi,MH,236,Wani,Wani$^/236,Other City
+MAHARASHTRA,Washim (M Cl),Hardwar,MH,236,Washim,Washim$^/236,Other City
+MEGHALAYA,Tura (M),Harihar,ML,238,Tura,Tura$^/238,Other City
+MIZORAM,Lunglei (NT),Hasanpur,MZ,134,Lunglei,Lunglei$^/134,Other City
+NAGALAND,Kohima (MC),Hassan,NL,119,Kohima,Kohima$^/119,Other City
+ODISHA,Balangir (M),Hathras,OR,16,Balangir,Balangir$^/16,Other City
+ODISHA,Barbil (M),Haveri,OR,16,Barbil,Barbil$^/16,Other City
+ODISHA,Bargarh (M),Hazaribag,OR,16,Bargarh,Bargarh$^/16,Other City
+ODISHA,Bhawanipatna (M),Hilsa,OR,16,Bhawanipatna,Bhawanipatna$^/16,Other City
+ODISHA,Brajarajnagar (M),Himatnagar,OR,16,Brajarajnagar,Brajarajnagar$^/16,Other City
+ODISHA,Dhenkanal (M),Hindaun,OR,55,Dhenkanal,Dhenkanal$^/55,Other City
+ODISHA,Jatani (M),Hindupur,OR,98,Jatani,Jatani$^/98,Other City
+ODISHA,Jeypur (M),Hinganghat,OR,98,Jeypur,Jeypur$^/98,Other City
+ODISHA,Jharsuguda (M),Hingoli,OR,98,Jharsuguda,Jharsuguda$^/98,Other City
+ODISHA,Kendujhar (M),Hiriyur,OR,119,Kendujhar,Kendujhar$^/119,Other City
+ODISHA,Paradip (M),Hisar,OR,168,Paradip,Paradip$^/168,Other City
+ODISHA,Rajagangapur (M),Hodal,OR,168,Rajagangapur,Rajagangapur$^/168,Other City
+ODISHA,Rayagada (M),Hojai,OR,214,Rayagada,Rayagada$^/214,Other City
+ODISHA,Sunabeda (NAC).,Hosakote,OR,238,Sunabeda,Sunabeda$^/238,Other City
+PUDUCHERRY,Karaikal (M),Hoshangabad,PY,119,Karaikal,Karaikal$^/119,Other City
+PUDUCHERRY,Yanam (M),Hoshiarpur,PY,236,Yanam,Yanam$^/236,Other City
+PUNJAB,Dhuri (M Cl),Hospet,PB,55,Dhuri,Dhuri$^/55,Other City
+PUNJAB,Faridkot (M Cl),Hosur,PB,74,Faridkot,Faridkot$^/74,Other City
+PUNJAB,Fazilka (M Cl),Hugli Chinsurah,PB,74,Fazilka,Fazilka$^/74,Other City
+PUNJAB,Gobindgarh (M Cl),Hunsur,PB,74,Gobindgarh,Gobindgarh$^/74,Other City
+PUNJAB,Gurdaspur (M Cl),Ichalkaranji,PB,86,Gurdaspur,Gurdaspur$^/86,Other City
+PUNJAB,Jagraon (M Cl),Ilkal,PB,86,Jagraon,Jagraon$^/86,Other City
+PUNJAB,Kapurthala (M Cl),Imphal,PB,119,Kapurthala,Kapurthala$^/119,Other City
+PUNJAB,Kharar (M Cl),Inam Karur,PB,119,Kharar,Kharar$^/119,Other City
+PUNJAB,Kot Kapura (M Cl),Islampur,PB,119,Kot Kapura,Kot Kapura$^/119,Other City
+PUNJAB,Malout (M Cl),Itanagar,PB,134,Malout,Malout$^/134,Other City
+PUNJAB,Mansa (M Cl),Itarsi,PB,134,Mansa,Mansa$^/134,Other City
+PUNJAB,Nabha (M Cl),Jagadhri,PB,168,Nabha,Nabha$^/168,Other City
+PUNJAB,Naya Gaon (NP),Jagdalpur,PB,168,Naya Gaon,Naya Gaon$^/168,Other City
+PUNJAB,Phagwara (M Cl),Jaggaiahpet,PB,168,Phagwara,Phagwara$^/168,Other City
+PUNJAB,Rajpura (M Cl),Jagraon,PB,168,Rajpura,Rajpura$^/168,Other City
+PUNJAB,Rupnagar (M Cl),Jagtial,PB,215,Rupnagar,Rupnagar$^/215,Other City
+PUNJAB,Samana (M Cl),Jahangirabad,PB,223,Samana,Samana$^/223,Other City
+PUNJAB,Sangrur (M Cl),Jaisalmer,PB,223,Sangrur,Sangrur$^/223,Other City
+PUNJAB,Sirhind Fatehgarh Sahib (M Cl),Jalaun,PB,238,Sirhind Fatehgarh Sahib,Sirhind Fatehgarh Sahib$^/238,Other City
+PUNJAB,Sunam Udham Singh Wala (M Cl),Jalgaon,PB,238,Sunam Udham Singh Wala,Sunam Udham Singh Wala$^/238,Other City
+PUNJAB,Tarn Taran (M Cl),Jalna,PB,238,Tarn Taran,Tarn Taran$^/238,Other City
+PUNJAB,Zirakpur (M Cl),Jalor,PB,236,Zirakpur,Zirakpur$^/236,Other City
+RAJASTHAN,Balotra (M),Jalpaiguri,RJ,16,Balotra,Balotra$^/16,Other City
+RAJASTHAN,Banswara (M),Jamalpur,RJ,16,Banswara,Banswara$^/16,Other City
+RAJASTHAN,Bari (M),Jamkhandi,RJ,16,Bari,Bari$^/16,Other City
+RAJASTHAN,Barmer (M),Jamnagar,RJ,16,Barmer,Barmer$^/16,Other City
+RAJASTHAN,Chomu (M),Jamui,RJ,55,Chomu,Chomu$^/55,Other City
+RAJASTHAN,Dausa (M),Jamuria,RJ,55,Dausa,Dausa$^/55,Other City
+RAJASTHAN,Didwana (M),Jangaon,RJ,55,Didwana,Didwana$^/55,Other City
+RAJASTHAN,Dungargarh (M),Jangipur,RJ,55,Dungargarh,Dungargarh$^/55,Other City
+RAJASTHAN,Fatehpur (M),Jaora,RJ,74,Fatehpur,Fatehpur$^/74,Other City
+RAJASTHAN,Jaisalmer (M),Jaspur,RJ,86,Jaisalmer,Jaisalmer$^/86,Other City
+RAJASTHAN,Jalor (M),Jatani,RJ,86,Jalor,Jalor$^/86,Other City
+RAJASTHAN,Jhalawar (M),Jaunpur,RJ,98,Jhalawar,Jhalawar$^/98,Other City
+RAJASTHAN,Karauli (M),Jehanabad,RJ,119,Karauli,Karauli$^/119,Other City
+RAJASTHAN,Kuchaman City (M),Jetpur Navagadh,RJ,119,Kuchaman City,Kuchaman City$^/119,Other City
+RAJASTHAN,Lachhmangarh (M),Jeypur,RJ,119,Lachhmangarh,Lachhmangarh$^/119,Other City
+RAJASTHAN,Ladnu (M),Jhalawar,RJ,119,Ladnu,Ladnu$^/119,Other City
+RAJASTHAN,Makrana (M),Jhargram,RJ,134,Makrana,Makrana$^/134,Other City
+RAJASTHAN,Nawalgarh (M),Jharsuguda,RJ,168,Nawalgarh,Nawalgarh$^/168,Other City
+RAJASTHAN,Nimbahera (M),Jhumri Tilaiya,RJ,168,Nimbahera,Nimbahera$^/168,Other City
+RAJASTHAN,Nokha (M),Jhunjhunun,RJ,168,Nokha,Nokha$^/168,Other City
+RAJASTHAN,Rajgarh (M),Jiaganj Azimganj,RJ,168,Rajgarh,Rajgarh$^/168,Other City
+RAJASTHAN,Rajsamand (M),Jind,RJ,168,Rajsamand,Rajsamand$^/168,Other City
+RAJASTHAN,Ratangarh (M),Jorhat,RJ,168,Ratangarh,Ratangarh$^/168,Other City
+RAJASTHAN,Sardarshahar (M),Jowai,RJ,223,Sardarshahar,Sardarshahar$^/223,Other City
+RAJASTHAN,Suratgarh (M),Junagadh,RJ,238,Suratgarh,Suratgarh$^/238,Other City
+TAMIL NADU,Anaiyur (M),Kadapa,TN,11,Anaiyur,Anaiyur$^/11,Other City
+TAMIL NADU,Arakonam (M),Kadayanallur,TN,16,Arakonam,Arakonam$^/16,Other City
+TAMIL NADU,Arani (M),Kadi,TN,16,Arani,Arani$^/16,Other City
+TAMIL NADU,Arcot (M),Kadiri,TN,16,Arcot,Arcot$^/16,Other City
+TAMIL NADU,Aruppukkottai (M),Kagaznagar,TN,16,Aruppukkottai,Aruppukkottai$^/16,Other City
+TAMIL NADU,Attur (M),Kairana,TN,16,Attur,Attur$^/16,Other City
+TAMIL NADU,Avaniapuram (M),Kaithal,TN,16,Avaniapuram,Avaniapuram$^/16,Other City
+TAMIL NADU,Bodinayakanur (M),Kakching,TN,16,Bodinayakanur,Bodinayakanur$^/16,Other City
+TAMIL NADU,Chengalpattu (M),Kakinada,TN,16,Chengalpattu,Chengalpattu$^/16,Other City
+TAMIL NADU,Chidambaram (M),Kalamassery,TN,16,Chidambaram,Chidambaram$^/16,Other City
+TAMIL NADU,Devakottai (M),Kaliaganj,TN,55,Devakottai,Devakottai$^/55,Other City
+TAMIL NADU,Dharapuram (M),Kallakkurichi,TN,55,Dharapuram,Dharapuram$^/55,Other City
+TAMIL NADU,Dharmapuri (M),Kalna,TN,55,Dharmapuri,Dharmapuri$^/55,Other City
+TAMIL NADU,Edappadi (M),Kalol,TN,55,Edappadi,Edappadi$^/55,Other City
+TAMIL NADU,Gobichettipalayam (M),Kalpi,TN,74,Gobichettipalayam,Gobichettipalayam$^/74,Other City
+TAMIL NADU,Goundampalayam (M),Kalyani,TN,74,Goundampalayam,Goundampalayam$^/74,Other City
+TAMIL NADU,Gudiyatham (M),Kamareddy,TN,74,Gudiyatham,Gudiyatham$^/74,Other City
+TAMIL NADU,Inam Karur (M),Kamarhati,TN,86,Inam Karur,Inam Karur$^/86,Other City
+TAMIL NADU,Kadayanallur (M),Kambam,TN,98,Kadayanallur,Kadayanallur$^/98,Other City
+TAMIL NADU,Kallakkurichi (M),Kamptee,TN,119,Kallakkurichi,Kallakkurichi$^/119,Other City
+TAMIL NADU,Kambam (M),Kanakapura,TN,119,Kambam,Kambam$^/119,Other City
+TAMIL NADU,Karur (M),Kancheepuram,TN,119,Karur,Karur$^/119,Other City
+TAMIL NADU,Kasipalayam  (E) (M),Kanchrapara,TN,119,Kasipalayam  (E),Kasipalayam  (E)$^/119,Other City
+TAMIL NADU,Kovilpatti (M),Kandi,TN,119,Kovilpatti,Kovilpatti$^/119,Other City
+TAMIL NADU,Krishnagiri (M),Kandukur,TN,119,Krishnagiri,Krishnagiri$^/119,Other City
+TAMIL NADU,Kumarapalayam (M),Kanhangad,TN,119,Kumarapalayam,Kumarapalayam$^/119,Other City
+TAMIL NADU,Kuniyamuthur (M),Kannauj,TN,119,Kuniyamuthur,Kuniyamuthur$^/119,Other City
+TAMIL NADU,Maduravoyal (M),Kannur,TN,134,Maduravoyal,Maduravoyal$^/134,Other City
+TAMIL NADU,Mannargudi (M),Kapurthala,TN,134,Mannargudi,Mannargudi$^/134,Other City
+TAMIL NADU,Maraimalainagar (M),Karad,TN,134,Maraimalainagar,Maraimalainagar$^/134,Other City
+TAMIL NADU,Mayiladuthurai (M),Karaikal,TN,134,Mayiladuthurai,Mayiladuthurai$^/134,Other City
+TAMIL NADU,Mettupalayam (M),Karaikkudi,TN,134,Mettupalayam,Mettupalayam$^/134,Other City
+TAMIL NADU,Mettur (M),Karanja,TN,134,Mettur,Mettur$^/134,Other City
+TAMIL NADU,Namakkal (M),Karauli,TN,168,Namakkal,Namakkal$^/168,Other City
+TAMIL NADU,Palani (M),Karimganj,TN,168,Palani,Palani$^/168,Other City
+TAMIL NADU,Pammal (M),Karimnagar,TN,168,Pammal,Pammal$^/168,Other City
+TAMIL NADU,Panruti (M),Karnal,TN,168,Panruti,Panruti$^/168,Other City
+TAMIL NADU,Paramakudi (M),Karur,TN,168,Paramakudi,Paramakudi$^/168,Other City
+TAMIL NADU,Pattukkottai (M),Karwar,TN,168,Pattukkottai,Pattukkottai$^/168,Other City
+TAMIL NADU,Periyasemur (M),Kasaragod,TN,168,Periyasemur,Periyasemur$^/168,Other City
+TAMIL NADU,Pernampattu (M),Kasganj,TN,168,Pernampattu,Pernampattu$^/168,Other City
+TAMIL NADU,Pollachi (M),Kashipur,TN,168,Pollachi,Pollachi$^/168,Other City
+TAMIL NADU,Poonamallee (M),Kasipalayam,TN,168,Poonamallee,Poonamallee$^/168,Other City
+TAMIL NADU,Puliankudi (M),Kathua,TN,168,Puliankudi,Puliankudi$^/168,Other City
+TAMIL NADU,Puzhithivakkam (Ullagaram) (M),Katihar,TN,168,Puzhithivakkam (Ullagaram),Puzhithivakkam (Ullagaram)$^/168,Other City
+TAMIL NADU,Ramanathapuram (M),Katwa,TN,168,Ramanathapuram,Ramanathapuram$^/168,Other City
+TAMIL NADU,Ranipettai (M),Kavali,TN,168,Ranipettai,Ranipettai$^/168,Other City
+TAMIL NADU,Rasipuram (M),Kayamkulam,TN,168,Rasipuram,Rasipuram$^/168,Other City
+TAMIL NADU,S.Nallur (M),Kendujhar,TN,215,S.Nallur,S.Nallur$^/215,Other City
+TAMIL NADU,Sankarankoil (M),Keshod,TN,223,Sankarankoil,Sankarankoil$^/223,Other City
+TAMIL NADU,Sathuvachari (M),Khambhat,TN,223,Sathuvachari,Sathuvachari$^/223,Other City
+TAMIL NADU,Sivakasi (M),Khamgaon,TN,238,Sivakasi,Sivakasi$^/238,Other City
+TAMIL NADU,Srivilliputhur (M),Khammam,TN,238,Srivilliputhur,Srivilliputhur$^/238,Other City
+TAMIL NADU,Tenkasi (M),Khandwa,TN,238,Tenkasi,Tenkasi$^/238,Other City
+TAMIL NADU,Thanthoni (M),Khanna,TN,238,Thanthoni,Thanthoni$^/238,Other City
+TAMIL NADU,Theni Allinagaram (M),Kharagpur,TN,238,Theni Allinagaram,Theni Allinagaram$^/238,Other City
+TAMIL NADU,Thirumangalam (M),Kharagpur,TN,238,Thirumangalam,Thirumangalam$^/238,Other City
+TAMIL NADU,Thiruthangal (M),Kharar,TN,238,Thiruthangal,Thiruthangal$^/238,Other City
+TAMIL NADU,Thiruvallur (M),Khardah,TN,238,Thiruvallur,Thiruvallur$^/238,Other City
+TAMIL NADU,Thiruvarur (M),Khargone,TN,238,Thiruvarur,Thiruvarur$^/238,Other City
+TAMIL NADU,Tindivanam (M),Khatauli,TN,238,Tindivanam,Tindivanam$^/238,Other City
+TAMIL NADU,Tiruchengode (M),Khopoli,TN,238,Tiruchengode,Tiruchengode$^/238,Other City
+TAMIL NADU,Tirupathur (M),Khurai,TN,238,Tirupathur,Tirupathur$^/238,Other City
+TAMIL NADU,Tiruverkadu (M),Khurja,TN,238,Tiruverkadu,Tiruverkadu$^/238,Other City
+TAMIL NADU,Udhagamandalam (M),Kichha,TN,238,Udhagamandalam,Udhagamandalam$^/238,Other City
+TAMIL NADU,Udumalaipettai  (M),Kiratpur,TN,238,Udumalaipettai ,Udumalaipettai $^/238,Other City
+TAMIL NADU,Valparai (M),Kishanganj,TN,236,Valparai,Valparai$^/236,Other City
+TAMIL NADU,Vaniyambadi (M),Kishangarh,TN,236,Vaniyambadi,Vaniyambadi$^/236,Other City
+TAMIL NADU,Veerappanchatiram (M),Koch Bihar,TN,236,Veerappanchatiram,Veerappanchatiram$^/236,Other City
+TAMIL NADU,Velampalayam (M),Kohima,TN,236,Velampalayam,Velampalayam$^/236,Other City
+TAMIL NADU,Viluppuram (M),Kokrajhar,TN,236,Viluppuram,Viluppuram$^/236,Other City
+TAMIL NADU,Virudhachalam (M),Kolar,TN,236,Virudhachalam,Virudhachalam$^/236,Other City
+TAMIL NADU,Virudhunagar (M),Kolar,TN,236,Virudhunagar,Virudhunagar$^/236,Other City
+TELANGANA,Bellampalle (M),Kollam,TS,16,Bellampalle,Bellampalle$^/16,Other City
+TELANGANA,Bhongir (M),Kollegal,TS,16,Bhongir,Bhongir$^/16,Other City
+TELANGANA,Bodhan (M),Konch,TS,16,Bodhan,Bodhan$^/16,Other City
+TELANGANA,Gadwal (M),Konnagar,TS,74,Gadwal,Gadwal$^/74,Other City
+TELANGANA,Jagtial (M),Kopargaon,TS,86,Jagtial,Jagtial$^/86,Other City
+TELANGANA,Jangaon (M),Koppal,TS,98,Jangaon,Jangaon$^/98,Other City
+TELANGANA,Kagaznagar (M),Koratla,TS,98,Kagaznagar,Kagaznagar$^/98,Other City
+TELANGANA,Kamareddy (M),Korba,TS,119,Kamareddy,Kamareddy$^/119,Other City
+TELANGANA,Koratla (M),Kosi Kalan,TS,119,Koratla,Koratla$^/119,Other City
+TELANGANA,Kothagudem (M),Kot Kapura,TS,119,Kothagudem,Kothagudem$^/119,Other City
+TELANGANA,Mancherial (M),Kotdwara,TS,134,Mancherial,Mancherial$^/134,Other City
+TELANGANA,Mandamarri (M),Kothagudem,TS,134,Mandamarri,Mandamarri$^/134,Other City
+TELANGANA,Metpalle (M),Kottayam,TS,134,Metpalle,Metpalle$^/134,Other City
+TELANGANA,Nirmal (M),Kovilpatti,TS,168,Nirmal,Nirmal$^/168,Other City
+TELANGANA,Palwancha (M),Kozhikode,TS,168,Palwancha,Palwancha$^/168,Other City
+TELANGANA,Sangareddy (M),Krishnagiri,TS,223,Sangareddy,Sangareddy$^/223,Other City
+TELANGANA,Siddipet (M),Krishnanagar,TS,231,Siddipet,Siddipet$^/231,Other City
+TELANGANA,Sircilla (M),Kuchaman City,TS,238,Sircilla,Sircilla$^/238,Other City
+TELANGANA,Tandur (M),Kulti,TS,238,Tandur,Tandur$^/238,Other City
+TELANGANA,Vicarabad (M),Kumarapalayam,TS,236,Vicarabad,Vicarabad$^/236,Other City
+TELANGANA,Wanaparthy (M),Kumbakonam,TS,236,Wanaparthy,Wanaparthy$^/236,Other City
+TELANGANA,Zahirabad (M),Kuniyamuthur,TS,236,Zahirabad,Zahirabad$^/236,Other City
+UTTAR PRADESH,Aonla (NPP),Kunnamkulam,UP,16,Aonla,Aonla$^/16,Other City
+UTTAR PRADESH,Atrauli (NPP),Kurichi,UP,16,Atrauli,Atrauli$^/16,Other City
+UTTAR PRADESH,Auraiya (NPP),Kurnool,UP,16,Auraiya,Auraiya$^/16,Other City
+UTTAR PRADESH,Ayodhya (NPP),Lachhmangarh,UP,16,Ayodhya,Ayodhya$^/16,Other City
+UTTAR PRADESH,Baghpat (NPP),Ladnu,UP,16,Baghpat,Baghpat$^/16,Other City
+UTTAR PRADESH,Baheri (NPP),Laharpur,UP,16,Baheri,Baheri$^/16,Other City
+UTTAR PRADESH,Balrampur (NPP),Lakhimpur,UP,16,Balrampur,Balrampur$^/16,Other City
+UTTAR PRADESH,Bela Pratapgarh (NPP),Lakhisarai,UP,16,Bela Pratapgarh,Bela Pratapgarh$^/16,Other City
+UTTAR PRADESH,Bhadohi (NPP),Lalitpur,UP,16,Bhadohi,Bhadohi$^/16,Other City
+UTTAR PRADESH,Bijnor (NPP),Lanka,UP,16,Bijnor,Bijnor$^/16,Other City
+UTTAR PRADESH,Bisalpur (NPP),Latur,UP,16,Bisalpur,Bisalpur$^/16,Other City
+UTTAR PRADESH,Biswan (NPP),Leh Ladakh,UP,16,Biswan,Biswan$^/16,Other City
+UTTAR PRADESH,Chandpur (NPP),Lohardaga,UP,16,Chandpur,Chandpur$^/16,Other City
+UTTAR PRADESH,Chhibramau (NPP),Lonavala,UP,16,Chhibramau,Chhibramau$^/16,Other City
+UTTAR PRADESH,Chitrakoot Dham (Karwi) (NPP),Lumding,UP,16,Chitrakoot Dham (Karwi),Chitrakoot Dham (Karwi)$^/16,Other City
+UTTAR PRADESH,Dadri (NPP),Lunglei,UP,55,Dadri,Dadri$^/55,Other City
+UTTAR PRADESH,Deoband (NPP),Macherla,UP,55,Deoband,Deoband$^/55,Other City
+UTTAR PRADESH,Dhampur (NPP),Machilipatnam,UP,55,Dhampur,Dhampur$^/55,Other City
+UTTAR PRADESH,Faridpur (NPP),Madanapalle,UP,74,Faridpur,Faridpur$^/74,Other City
+UTTAR PRADESH,Gajraula (NP),Madavaram,UP,74,Gajraula,Gajraula$^/74,Other City
+UTTAR PRADESH,Gangaghat (NPP),Madhepura,UP,74,Gangaghat,Gangaghat$^/74,Other City
+UTTAR PRADESH,Gangoh (NPP),Madhubani,UP,74,Gangoh,Gangoh$^/74,Other City
+UTTAR PRADESH,Gola Gokaran Nath (NPP),Madhupur,UP,74,Gola Gokaran Nath,Gola Gokaran Nath$^/74,Other City
+UTTAR PRADESH,Gulaothi (NPP),Madhyamgram,UP,74,Gulaothi,Gulaothi$^/74,Other City
+UTTAR PRADESH,Hasanpur (NPP),Maduravoyal,UP,86,Hasanpur,Hasanpur$^/86,Other City
+UTTAR PRADESH,Jahangirabad (NPP),Mahasamund,UP,86,Jahangirabad,Jahangirabad$^/86,Other City
+UTTAR PRADESH,Jalaun (NPP),Mahbubnagar,UP,86,Jalaun,Jalaun$^/86,Other City
+UTTAR PRADESH,Kairana (NPP),Mahesana,UP,98,Kairana,Kairana$^/98,Other City
+UTTAR PRADESH,Kalpi (NPP),Maheshtala,UP,119,Kalpi,Kalpi$^/119,Other City
+UTTAR PRADESH,Kannauj (NPP),Mahmudabad,UP,119,Kannauj,Kannauj$^/119,Other City
+UTTAR PRADESH,Khatauli (NPP),Mahoba,UP,119,Khatauli,Khatauli$^/119,Other City
+UTTAR PRADESH,Kiratpur (NPP),Mahuva,UP,119,Kiratpur,Kiratpur$^/119,Other City
+UTTAR PRADESH,Konch (NPP),Mainpuri,UP,119,Konch,Konch$^/119,Other City
+UTTAR PRADESH,Kosi Kalan (NPP),Makrana,UP,119,Kosi Kalan,Kosi Kalan$^/119,Other City
+UTTAR PRADESH,Laharpur (NPP),Malappuram,UP,119,Laharpur,Laharpur$^/119,Other City
+UTTAR PRADESH,Mahmudabad (NPP),Malegaon,UP,134,Mahmudabad,Mahmudabad$^/134,Other City
+UTTAR PRADESH,Mahoba (NPP),Malerkotla,UP,134,Mahoba,Mahoba$^/134,Other City
+UTTAR PRADESH,Mauranipur (NPP),Malkapur,UP,134,Mauranipur,Mauranipur$^/134,Other City
+UTTAR PRADESH,Mawana (NPP),Malout,UP,134,Mawana,Mawana$^/134,Other City
+UTTAR PRADESH,Mubarakpur (NPP),Mancherial,UP,168,Mubarakpur,Mubarakpur$^/168,Other City
+UTTAR PRADESH,Muradnagar (NPP),Mandamarri,UP,168,Muradnagar,Muradnagar$^/168,Other City
+UTTAR PRADESH,Nagina (NPP),Mandapeta,UP,168,Nagina,Nagina$^/168,Other City
+UTTAR PRADESH,Najibabad (NPP),Mandi,UP,168,Najibabad,Najibabad$^/168,Other City
+UTTAR PRADESH,Nawabganj (NPP),Mandi Dabwali,UP,168,Nawabganj,Nawabganj$^/168,Other City
+UTTAR PRADESH,Pilkhuwa (NPP),Mandideep,UP,168,Pilkhuwa,Pilkhuwa$^/168,Other City
+UTTAR PRADESH,Rath (NPP),Mandsaur,UP,168,Rath,Rath$^/168,Other City
+UTTAR PRADESH,Sahaswan (NPP),Mandvi,UP,223,Sahaswan,Sahaswan$^/223,Other City
+UTTAR PRADESH,Sandila (NPP),Mandya,UP,223,Sandila,Sandila$^/223,Other City
+UTTAR PRADESH,Sardhana (NPP),Mangalagiri,UP,223,Sardhana,Sardhana$^/223,Other City
+UTTAR PRADESH,Shahabad (NPP),Mangaldoi,UP,231,Shahabad,Shahabad$^/231,Other City
+UTTAR PRADESH,Sherkot (NPP),Mangalore,UP,231,Sherkot,Sherkot$^/231,Other City
+UTTAR PRADESH,Sikandrabad (NPP),Manglaur,UP,231,Sikandrabad,Sikandrabad$^/231,Other City
+UTTAR PRADESH,Tanda (NPP),Mango,UP,238,Tanda,Tanda$^/238,Other City
+UTTAR PRADESH,Tilhar (NPP),Mangrol,UP,238,Tilhar,Tilhar$^/238,Other City
+UTTAR PRADESH,Tundla (NPP),Manjeri,UP,238,Tundla,Tundla$^/238,Other City
+UTTAR PRADESH,Ujhani (NPP),Manmad,UP,238,Ujhani,Ujhani$^/238,Other City
+UTTAR PRADESH,Vrindavan (NPP),Mannargudi,UP,236,Vrindavan,Vrindavan$^/236,Other City
+UTTARAKHAND,Jaspur (NPP),Mansa,UK,98,Jaspur,Jaspur$^/98,Other City
+UTTARAKHAND,Manglaur (NPP),Maraimalainagar,UK,134,Manglaur,Manglaur$^/134,Other City
+UTTARAKHAND,Pithoragarh (NPP),Margao,UK,168,Pithoragarh,Pithoragarh$^/168,Other City
+UTTARAKHAND,Ramnagar (NPP),Margherita,UK,168,Ramnagar,Ramnagar$^/168,Other City
+UTTARAKHAND,Rishikesh (NPP),Marigaon,UK,215,Rishikesh,Rishikesh$^/215,Other City
+WEST BENGAL,Arambag (M),Markapur,WB,16,Arambag,Arambag$^/16,Other City
+WEST BENGAL,Baduria (M),Masaurhi,WB,16,Baduria,Baduria$^/16,Other City
+WEST BENGAL,Baruipur (M),Mathura,WB,16,Baruipur,Baruipur$^/16,Other City
+WEST BENGAL,Bishnupur (M),Maunath Bhanjan,WB,16,Bishnupur,Bishnupur$^/16,Other City
+WEST BENGAL,Bolpur (M),Mauranipur,WB,16,Bolpur,Bolpur$^/16,Other City
+WEST BENGAL,Budge Budge (M),Mawana,WB,16,Budge Budge,Budge Budge$^/16,Other City
+WEST BENGAL,Chakdaha (M),Mayiladuthurai,WB,16,Chakdaha,Chakdaha$^/16,Other City
+WEST BENGAL,Contai (M),Medininagar,WB,55,Contai,Contai$^/55,Other City
+WEST BENGAL,Dankuni (M),Medinipur,WB,55,Dankuni,Dankuni$^/55,Other City
+WEST BENGAL,Dhulian (M),Medinipur,WB,55,Dhulian,Dhulian$^/55,Other City
+WEST BENGAL,Gangarampur (M),Metpalle,WB,74,Gangarampur,Gangarampur$^/74,Other City
+WEST BENGAL,Garulia (M),Mettupalayam,WB,74,Garulia,Garulia$^/74,Other City
+WEST BENGAL,Gayespur (M),Mettur,WB,74,Gayespur,Gayespur$^/74,Other City
+WEST BENGAL,Ghatal (M),Miryalaguda,WB,74,Ghatal,Ghatal$^/74,Other City
+WEST BENGAL,Islampur (M),Mirzapur cum Vindhyachal,WB,86,Islampur,Islampur$^/86,Other City
+WEST BENGAL,Jangipur (M),Modasa,WB,98,Jangipur,Jangipur$^/98,Other City
+WEST BENGAL,Jhargram (M),Modinagar,WB,98,Jhargram,Jhargram$^/98,Other City
+WEST BENGAL,Jiaganj-Azimganj (M),Moga,WB,98,Jiaganj-Azimganj,Jiaganj-Azimganj$^/98,Other City
+WEST BENGAL,Kaliaganj (M),Mokameh,WB,119,Kaliaganj,Kaliaganj$^/119,Other City
+WEST BENGAL,Kalna (M),Mokokchung,WB,119,Kalna,Kalna$^/119,Other City
+WEST BENGAL,Kandi (M),Mon,WB,119,Kandi,Kandi$^/119,Other City
+WEST BENGAL,Katwa (M),Morena,WB,119,Katwa,Katwa$^/119,Other City
+WEST BENGAL,Koch Bihar (M),Mormugao,WB,119,Koch Bihar,Koch Bihar$^/119,Other City
+WEST BENGAL,Konnagar (M),Morvi,WB,119,Konnagar,Konnagar$^/119,Other City
+WEST BENGAL,New Barrackpore (M),Motihari,WB,168,New Barrackpore,New Barrackpore$^/168,Other City
+WEST BENGAL,Old Malda (M),Mubarakpur,WB,168,Old Malda,Old Malda$^/168,Other City
+WEST BENGAL,Panskura (M),Mudhol,WB,168,Panskura,Panskura$^/168,Other City
+WEST BENGAL,Rampurhat (M),Mughalsarai,WB,168,Rampurhat,Rampurhat$^/168,Other City
+WEST BENGAL,Ranaghat (M),Muktsar,WB,168,Ranaghat,Ranaghat$^/168,Other City
+WEST BENGAL,Suri (M),Mulbagal,WB,238,Suri,Suri$^/238,Other City
+WEST BENGAL,Tamluk (M),Munger,WB,238,Tamluk,Tamluk$^/238,Other City
+ANDAMAN & NICOBAR ISLANDS,Port Blair (M Cl),Muradnagar,AN,168,Port Blair,Port Blair$^/168,Other City
+ANDHRA PRADESH,Srikakulam (M),Murwara,AP,238,Srikakulam,Srikakulam$^/238,Other City
+ANDHRA PRADESH,Vizianagaram (M),Mussoorie,AP,236,Vizianagaram,Vizianagaram$^/236,Other City
+ANDHRA PRADESH,Rajahmundry (M Corp.),Muzaffarnagar,AP,168,Rajahmundry,Rajahmundry$^/168,Other City
+ANDHRA PRADESH,Kakinada (M Corp.),Muzaffarpur,AP,98,Kakinada,Kakinada$^/98,Other City
+ANDHRA PRADESH,Tadepalligudem (M),Nabadwip,AP,238,Tadepalligudem,Tadepalligudem$^/238,Other City
+ANDHRA PRADESH,Eluru (M Corp.),Nabha,AP,74,Eluru,Eluru$^/74,Other City
+ANDHRA PRADESH,Bhimavaram (M),Nadiad,AP,16,Bhimavaram,Bhimavaram$^/16,Other City
+ANDHRA PRADESH,Gudivada (M),Nagaon,AP,74,Gudivada,Gudivada$^/74,Other City
+ANDHRA PRADESH,Machilipatnam (M),Nagapattinam,AP,134,Machilipatnam,Machilipatnam$^/134,Other City
+ANDHRA PRADESH,Narasaraopet (M),Nagari,AP,168,Narasaraopet,Narasaraopet$^/168,Other City
+ANDHRA PRADESH,Chilakaluripet (M),Nagaur,AP,16,Chilakaluripet,Chilakaluripet$^/16,Other City
+ANDHRA PRADESH,Tenali (M),Nagda,AP,238,Tenali,Tenali$^/238,Other City
+ANDHRA PRADESH,Ongole (M),Nagercoil,AP,168,Ongole,Ongole$^/168,Other City
+ANDHRA PRADESH,Nellore (M Corp.),Nagina,AP,168,Nellore,Nellore$^/168,Other City
+ANDHRA PRADESH,Proddatur (M),Nahan,AP,168,Proddatur,Proddatur$^/168,Other City
+ANDHRA PRADESH,Kadapa (M Corp.),Naharlagun,AP,98,Kadapa,Kadapa$^/98,Other City
+ANDHRA PRADESH,Kurnool (M Corp.),Naihati,AP,119,Kurnool,Kurnool$^/119,Other City
+ANDHRA PRADESH,Nandyal (M),Nainital,AP,168,Nandyal,Nandyal$^/168,Other City
+ANDHRA PRADESH,Guntakal (M),Najibabad,AP,74,Guntakal,Guntakal$^/74,Other City
+ANDHRA PRADESH,Tadpatri (M),Nalbari,AP,238,Tadpatri,Tadpatri$^/238,Other City
+ANDHRA PRADESH,Anantapur (M Corp.),Nalgonda,AP,16,Anantapur,Anantapur$^/16,Other City
+ANDHRA PRADESH,Dharmavaram (M),Namakkal,AP,55,Dharmavaram,Dharmavaram$^/55,Other City
+ANDHRA PRADESH,Hindupur (M),Nandurbar,AP,86,Hindupur,Hindupur$^/86,Other City
+ANDHRA PRADESH,Tirupati (M Corp.),Nandyal,AP,238,Tirupati,Tirupati$^/238,Other City
+ANDHRA PRADESH,Madanapalle (M),Nanjangud,AP,134,Madanapalle,Madanapalle$^/134,Other City
+ANDHRA PRADESH,Chittoor (M),Narasapur,AP,55,Chittoor,Chittoor$^/55,Other City
+ASSAM,Nagaon (MB),Narasaraopet,AS,168,Nagaon,Nagaon$^/168,Other City
+ASSAM,Dibrugarh (MB),Narnaul,AS,55,Dibrugarh,Dibrugarh$^/55,Other City
+ASSAM,Silchar (MB),Narsimhapur,AS,231,Silchar,Silchar$^/231,Other City
+BIHAR,Bagaha (Nagar Parishad),Narwana,BH,16,Bagaha,Bagaha$^/16,Other City
+BIHAR,Bettiah (Nagar Parishad),Navsari,BH,16,Bettiah,Bettiah$^/16,Other City
+BIHAR,Motihari (Nagar Parishad),Nawabganj,BH,168,Motihari,Motihari$^/168,Other City
+BIHAR,Kishanganj (Nagar Parishad),Nawada,BH,119,Kishanganj,Kishanganj$^/119,Other City
+BIHAR,Purnia (M Corp.),Nawalgarh,BH,168,Purnia,Purnia$^/168,Other City
+BIHAR,Katihar (M Corp.),Naya Gaon,BH,119,Katihar,Katihar$^/119,Other City
+BIHAR,Saharsa (Nagar Parishad),NDMC,BH,223,Saharsa,Saharsa$^/223,Other City
+BIHAR,Darbhanga (M Corp.),Nedumangad,BH,55,Darbhanga,Darbhanga$^/55,Other City
+BIHAR,Muzaffarpur (M Corp.),Neemuch,BH,168,Muzaffarpur,Muzaffarpur$^/168,Other City
+BIHAR,Siwan (Nagar Parishad),Nellore,BH,238,Siwan,Siwan$^/238,Other City
+BIHAR,Chapra (Nagar Parishad),New Barrackpore,BH,16,Chapra,Chapra$^/16,Other City
+BIHAR,Hajipur (Nagar Parishad),Neyyattinkara,BH,86,Hajipur,Hajipur$^/86,Other City
+BIHAR,Begusarai (M Corp.) ,Nimbahera,BH,16,Begusarai,Begusarai$^/16,Other City
+BIHAR,Bhagalpur (M Corp.),Nipani ,BH,16,Bhagalpur,Bhagalpur$^/16,Other City
+BIHAR,Munger (M Corp.),Nirmal,BH,168,Munger,Munger$^/168,Other City
+BIHAR,Jamalpur (Nagar Parishad),Nizamabad,BH,86,Jamalpur,Jamalpur$^/86,Other City
+BIHAR,Biharsharif (M Corp.),Nokha,BH,16,Biharsharif,Biharsharif$^/16,Other City
+BIHAR,Dinapur Nizamat (Nagar Parishad),Nongstoin,BH,55,Dinapur Nizamat,Dinapur Nizamat$^/55,Other City
+BIHAR,Arrah (M Corp.),North Barrackpore,BH,16,Arrah,Arrah$^/16,Other City
+BIHAR,Buxar (Nagar Parishad),North DumDum,BH,16,Buxar,Buxar$^/16,Other City
+BIHAR,Sasaram (Nagar Parishad),North Lakhimpur,BH,223,Sasaram,Sasaram$^/223,Other City
+BIHAR,Dehri (Nagar Parishad),Nuzvid,BH,55,Dehri,Dehri$^/55,Other City
+BIHAR,Aurangabad (Nagar Parishad),Okha,BH,16,Aurangabad,Aurangabad$^/16,Other City
+BIHAR,Gaya (M Corp.),Old Malda,BH,74,Gaya,Gaya$^/74,Other City
+BIHAR,Jehanabad (Nagar Parishad) ,Ongole,BH,98,Jehanabad,Jehanabad$^/98,Other City
+CHHATTISGARH,Ambikapur (M Corp.),Orai,CG,11,Ambikapur,Ambikapur$^/11,Other City
+CHHATTISGARH,Raigarh (M Corp.),Osmanabad,CG,168,Raigarh,Raigarh$^/168,Other City
+CHHATTISGARH,Korba (M Corp.),Ottappalam,CG,119,Korba,Korba$^/119,Other City
+CHHATTISGARH,Bilaspur (M Corp.),Ozhukarai,CG,16,Bilaspur,Bilaspur$^/16,Other City
+CHHATTISGARH,Rajnandgaon (M Corp.),Pachora,CG,168,Rajnandgaon,Rajnandgaon$^/168,Other City
+CHHATTISGARH,Durg (M Corp.),Palacole,CG,55,Durg,Durg$^/55,Other City
+CHHATTISGARH,Jagdalpur (M Corp.),Palakkad,CG,86,Jagdalpur,Jagdalpur$^/86,Other City
+DELHI,NDMC,Palamaner,DL,168,NDMC,NDMC$^/168,Other City
+GUJARAT,Bhuj (M),Palani,GJ,16,Bhuj,Bhuj$^/16,Other City
+GUJARAT,Gandhidham (M),Palanpur,GJ,74,Gandhidham,Gandhidham$^/74,Other City
+GUJARAT,Palanpur (M),Palasa Kasibugga,GJ,168,Palanpur,Palanpur$^/168,Other City
+GUJARAT,Deesa (M),Palghar,GJ,55,Deesa,Deesa$^/55,Other City
+GUJARAT,Patan (M),Pali,GJ,168,Patan,Patan$^/168,Other City
+GUJARAT,Mahesana (M),Palitana,GJ,134,Mahesana,Mahesana$^/134,Other City
+GUJARAT,Kalol (M),Pallavaram,GJ,119,Kalol,Kalol$^/119,Other City
+GUJARAT,Gandhinagar (NA),Palwal,GJ,74,Gandhinagar,Gandhinagar$^/74,Other City
+GUJARAT,Surendranagar Dudhrej (M),Palwancha,GJ,238,Surendranagar Dudhrej,Surendranagar Dudhrej$^/238,Other City
+GUJARAT,Morvi (M),Pammal,GJ,168,Morvi,Morvi$^/168,Other City
+GUJARAT,Gondal (M),Panchkula,GJ,74,Gondal,Gondal$^/74,Other City
+GUJARAT,Jetpur Navagadh (M),Pandharpur,GJ,98,Jetpur Navagadh,Jetpur Navagadh$^/98,Other City
+GUJARAT,Jamnagar (M Corp.),Panihati,GJ,110,Jamnagar,Jamnagar$^/110,Other City
+GUJARAT,Porbandar (M),Panipat,GJ,168,Porbandar,Porbandar$^/168,Other City
+GUJARAT,Junagadh (M Corp.),Panna,GJ,98,Junagadh,Junagadh$^/98,Other City
+GUJARAT,Veraval (M),Panruti,GJ,236,Veraval,Veraval$^/236,Other City
+GUJARAT,Amreli (M),Panskura,GJ,11,Amreli,Amreli$^/11,Other City
+GUJARAT,Botad (M),Panvel,GJ,16,Botad,Botad$^/16,Other City
+GUJARAT,Anand (M),Paonta Sahib,GJ,11,Anand,Anand$^/11,Other City
+GUJARAT,Nadiad (M),Paradip,GJ,168,Nadiad,Nadiad$^/168,Other City
+GUJARAT,Godhra (M),Paramakudi,GJ,74,Godhra,Godhra$^/74,Other City
+GUJARAT,Bharuch (M),Parbhani,GJ,16,Bharuch,Bharuch$^/16,Other City
+GUJARAT,Navsari (M),Parli,GJ,168,Navsari,Navsari$^/168,Other City
+GUJARAT,Valsad (M),Parvathipuram,GJ,236,Valsad,Valsad$^/236,Other City
+GUJARAT,Vapi (M),Patan,GJ,236,Vapi,Vapi$^/236,Other City
+HARYANA,Panchkula (M Cl),Pathankot,HR,168,Panchkula,Panchkula$^/168,Other City
+HARYANA,Ambala (M Cl),Patiala,HR,11,Ambala,Ambala$^/11,Other City
+HARYANA,Ambala Sadar (M Cl),Pattukkottai,HR,11,Ambala Sadar,Ambala Sadar$^/11,Other City
+HARYANA,Jagadhri (M Cl),Pauri,HR,86,Jagadhri,Jagadhri$^/86,Other City
+HARYANA,Yamunanagar (M Cl),Payyannur,HR,236,Yamunanagar,Yamunanagar$^/236,Other City
+HARYANA,Thanesar (M Cl),Periyasemur,HR,238,Thanesar,Thanesar$^/238,Other City
+HARYANA,Kaithal (M Cl),Pernampattu,HR,98,Kaithal,Kaithal$^/98,Other City
+HARYANA,Karnal (M Cl),Petlad,HR,119,Karnal,Karnal$^/119,Other City
+HARYANA,Panipat (M Cl),Phagwara,HR,168,Panipat,Panipat$^/168,Other City
+HARYANA,Sonipat (M Cl),Phaltan,HR,238,Sonipat,Sonipat$^/238,Other City
+HARYANA,Jind (M Cl),Phulwari Sharif,HR,98,Jind,Jind$^/98,Other City
+HARYANA,Sirsa (M Cl),Phusro,HR,238,Sirsa,Sirsa$^/238,Other City
+HARYANA,Hisar (M Cl),Piduguralla,HR,86,Hisar,Hisar$^/86,Other City
+HARYANA,Bhiwani (M Cl),Pilibhit,HR,16,Bhiwani,Bhiwani$^/16,Other City
+HARYANA,Rohtak (M Cl),Pilkhuwa,HR,215,Rohtak,Rohtak$^/215,Other City
+HARYANA,Bahadurgarh (M Cl),Pithampur,HR,16,Bahadurgarh,Bahadurgarh$^/16,Other City
+HARYANA,Rewari (M Cl),Pithapuram,HR,215,Rewari,Rewari$^/215,Other City
+HARYANA,Palwal (M Cl),Pithoragarh,HR,168,Palwal,Palwal$^/168,Other City
+HIMACHAL PRADESH,Shimla (M Corp.),Pollachi,HP,231,Shimla,Shimla$^/231,Other City
+JAMMU AND KASHMIR,Anantnag (M Cl),Ponnani,J&K,16,Anantnag,Anantnag$^/16,Other City
+JHARKHAND,Giridih (Nagar Parishad),Ponnur,JH,74,Giridih,Giridih$^/74,Other City
+JHARKHAND,Deoghar  (M Corp.),Poonamallee,JH,55,Deoghar ,Deoghar $^/55,Other City
+JHARKHAND,Chas (Nagar Parishad),Porbandar,JH,16,Chas,Chas$^/16,Other City
+JHARKHAND,Mango (NAC),Port Blair,JH,134,Mango,Mango$^/134,Other City
+JHARKHAND,Hazaribag (Nagar Parishad),Proddatur,JH,86,Hazaribag,Hazaribag$^/86,Other City
+KARNATAKA,Belgaum (M Corp.),Puducherry,KA,16,Belgaum,Belgaum$^/16,Other City
+KARNATAKA,Bagalkot (CMC),Pudukkottai,KA,16,Bagalkot,Bagalkot$^/16,Other City
+KARNATAKA,Bijapur (CMC),Puliankudi,KA,16,Bijapur,Bijapur$^/16,Other City
+KARNATAKA,Bidar (CMC),Pulivendla,KA,16,Bidar,Bidar$^/16,Other City
+KARNATAKA,Raichur (CMC),Punch,KA,168,Raichur,Raichur$^/168,Other City
+KARNATAKA,Gangawati (CMC),Punganur,KA,74,Gangawati,Gangawati$^/74,Other City
+KARNATAKA,Gadag-Betigeri (CMC),Puri,KA,74,Gadag-Betigeri,Gadag-Betigeri$^/74,Other City
+KARNATAKA,Ranibennur (CMC),Purnia,KA,168,Ranibennur,Ranibennur$^/168,Other City
+KARNATAKA,Hospet (CMC),Puruliya,KA,86,Hospet,Hospet$^/86,Other City
+KARNATAKA,Bellary (M Corp.),Pusad,KA,16,Bellary,Bellary$^/16,Other City
+KARNATAKA,Chitradurga (CMC),Puttur,KA,16,Chitradurga,Chitradurga$^/16,Other City
+KARNATAKA,Davanagere (M Corp.),Puttur,KA,55,Davanagere,Davanagere$^/55,Other City
+KARNATAKA,Shimoga (CMC),Puzhithivakkam,KA,231,Shimoga,Shimoga$^/231,Other City
+KARNATAKA,Bhadravati (CMC),Quilandy,KA,16,Bhadravati,Bhadravati$^/16,Other City
+KARNATAKA,Udupi (CMC),Rabkavi Banhatti,KA,238,Udupi,Udupi$^/238,Other City
+KARNATAKA,Chikmagalur (CMC),Rae Bareli,KA,16,Chikmagalur,Chikmagalur$^/16,Other City
+KARNATAKA,Tumkur (CMC),Raghogarh Vijaypur,KA,238,Tumkur,Tumkur$^/238,Other City
+KARNATAKA,Mandya (CMC),Raichur,KA,134,Mandya,Mandya$^/134,Other City
+KARNATAKA,Hassan (CMC),Raiganj,KA,86,Hassan,Hassan$^/86,Other City
+KARNATAKA,Mangalore (M Corp.),Raigarh,KA,134,Mangalore,Mangalore$^/134,Other City
+KARNATAKA,Kolar (CMC),Rajagangapur,KA,119,Kolar,Kolar$^/119,Other City
+KARNATAKA,Robertson Pet (CMC),Rajahmundry,KA,215,Robertson Pet,Robertson Pet$^/215,Other City
+KERALA,Kozhikode (M Corp.),Rajapalayam,KL,119,Kozhikode,Kozhikode$^/119,Other City
+KERALA,Palakkad (M),Rajarhat Gopalpur,KL,168,Palakkad,Palakkad$^/168,Other City
+KERALA,Thrissur (M Corp.),Rajauri,KL,238,Thrissur,Thrissur$^/238,Other City
+KERALA,Kollam (M Corp.),Rajgarh,KL,119,Kollam,Kollam$^/119,Other City
+MADHYA PRADESH,Morena (M),Rajnandgaon,MP,168,Morena,Morena$^/168,Other City
+MADHYA PRADESH,Bhind (M),Rajpur Sonarpur,MP,16,Bhind,Bhind$^/16,Other City
+MADHYA PRADESH,Datia (M),Rajpur Sonarpur,MP,55,Datia,Datia$^/55,Other City
+MADHYA PRADESH,Shivpuri (M),Rajpura,MP,231,Shivpuri,Shivpuri$^/231,Other City
+MADHYA PRADESH,Chhatarpur (M),Rajsamand,MP,16,Chhatarpur,Chhatarpur$^/16,Other City
+MADHYA PRADESH,Sagar (M Corp.),Ramagundam,MP,223,Sagar,Sagar$^/223,Other City
+MADHYA PRADESH,Damoh (M),Ramanagara,MP,55,Damoh,Damoh$^/55,Other City
+MADHYA PRADESH,Satna (M Corp.),Ramanathapuram,MP,231,Satna,Satna$^/231,Other City
+MADHYA PRADESH,Rewa (M Corp.),Ramnagar,MP,215,Rewa,Rewa$^/215,Other City
+MADHYA PRADESH,Neemuch (M),Rampur,MP,168,Neemuch,Neemuch$^/168,Other City
+MADHYA PRADESH,Mandsaur (M),Rampurhat,MP,134,Mandsaur,Mandsaur$^/134,Other City
+MADHYA PRADESH,Ratlam (M Corp.),Ranaghat,MP,214,Ratlam,Ratlam$^/214,Other City
+MADHYA PRADESH,Nagda (M),Rangia,MP,168,Nagda,Nagda$^/168,Other City
+MADHYA PRADESH,Dewas (M Corp.),Ranibennur,MP,55,Dewas,Dewas$^/55,Other City
+MADHYA PRADESH,Pithampur (M),Raniganj,MP,168,Pithampur,Pithampur$^/168,Other City
+MADHYA PRADESH,Khargone (M),Ranipettai,MP,119,Khargone,Khargone$^/119,Other City
+MADHYA PRADESH,Vidisha (M),Rasipuram,MP,236,Vidisha,Vidisha$^/236,Other City
+MADHYA PRADESH,Sehore (M),Ratangarh,MP,231,Sehore,Sehore$^/231,Other City
+MADHYA PRADESH,Betul (M),Rath,MP,16,Betul,Betul$^/16,Other City
+MADHYA PRADESH,Hoshangabad (M),Ratlam,MP,86,Hoshangabad,Hoshangabad$^/86,Other City
+MADHYA PRADESH,Murwara (Katni) (M Corp.),Ratnagiri,MP,168,Murwara (Katni),Murwara (Katni)$^/168,Other City
+MADHYA PRADESH,Chhindwara (M),Raurkela,MP,16,Chhindwara,Chhindwara$^/16,Other City
+MADHYA PRADESH,Seoni (M),Raxaul Bazar ,MP,231,Seoni,Seoni$^/231,Other City
+MADHYA PRADESH,Guna (M),Rayachoti,MP,74,Guna,Guna$^/74,Other City
+MADHYA PRADESH,Singrauli (M Corp.),Rayadurg,MP,238,Singrauli,Singrauli$^/238,Other City
+MADHYA PRADESH,Khandwa (M Corp.),Rayagada,MP,119,Khandwa,Khandwa$^/119,Other City
+MADHYA PRADESH,Burhanpur (M Corp.),Repalle,MP,16,Burhanpur,Burhanpur$^/16,Other City
+MAHARASHTRA,Nandurbar (M Cl),Rewa,MH,168,Nandurbar,Nandurbar$^/168,Other City
+MAHARASHTRA,Dhule (M Corp.) ,Rewari,MH,55,Dhule,Dhule$^/55,Other City
+MAHARASHTRA,Bhusawal (M Cl) ,Rishikesh,MH,16,Bhusawal,Bhusawal$^/16,Other City
+MAHARASHTRA,Jalgaon (M Corp.),Rishra,MH,86,Jalgaon,Jalgaon$^/86,Other City
+MAHARASHTRA,Wardha (M Cl),Robertson Pet,MH,236,Wardha,Wardha$^/236,Other City
+MAHARASHTRA,Hinganghat (M Cl),Rohtak,MH,86,Hinganghat,Hinganghat$^/86,Other City
+MAHARASHTRA,Gondiya (M Cl),Roorkee,MH,74,Gondiya,Gondiya$^/74,Other City
+MAHARASHTRA,Chandrapur (M Cl),Rudrapur,MH,16,Chandrapur,Chandrapur$^/16,Other City
+MAHARASHTRA,Yavatmal (M Cl),Rupnagar,MH,236,Yavatmal,Yavatmal$^/236,Other City
+MAHARASHTRA,Parbhani (M Cl),S A S Nagar,MH,168,Parbhani,Parbhani$^/168,Other City
+MAHARASHTRA,Jalna (M Cl),S.Nallur,MH,86,Jalna,Jalna$^/86,Other City
+MAHARASHTRA,Malegaon (M Corp.),Sagar,MH,134,Malegaon,Malegaon$^/134,Other City
+MAHARASHTRA,Badlapur (M Cl),Sagar,MH,16,Badlapur,Badlapur$^/16,Other City
+MAHARASHTRA,Ambarnath(M Cl),Saharsa,MH,11,Ambarnath,Ambarnath$^/11,Other City
+MAHARASHTRA,Panvel (M Cl),Sahaswan,MH,168,Panvel,Panvel$^/168,Other City
+MAHARASHTRA,Bid (M Cl),Sahibganj,MH,16,Bid,Bid$^/16,Other City
+MAHARASHTRA,Latur (M Cl),Saiha,MH,119,Latur,Latur$^/119,Other City
+MAHARASHTRA,Udgir (M Cl),Samalkot,MH,238,Udgir,Udgir$^/238,Other City
+MAHARASHTRA,Osmanabad (M Cl),Samana,MH,168,Osmanabad,Osmanabad$^/168,Other City
+MAHARASHTRA,Barshi (M Cl),Samastipur,MH,16,Barshi,Barshi$^/16,Other City
+MAHARASHTRA,Satara (M Cl),Sambalpur,MH,223,Satara,Satara$^/223,Other City
+MAHARASHTRA,Ichalkaranji (M Cl),Sambhal,MH,86,Ichalkaranji,Ichalkaranji$^/86,Other City
+MANIPUR,Imphal (MCI) ,Sandila,MN,86,Imphal,Imphal$^/86,Other City
+MEGHALAYA,Shillong (MB),Sangamner,ML,231,Shillong,Shillong$^/231,Other City
+NAGALAND,Dimapur (MC),Sangareddy,NL,55,Dimapur,Dimapur$^/55,Other City
+ODISHA,Sambalpur (M),Sangrur,OR,223,Sambalpur,Sambalpur$^/223,Other City
+ODISHA,Raurkela (M),Sankarankoil,OR,214,Raurkela,Raurkela$^/214,Other City
+ODISHA,Baripada (M),Santipur,OR,16,Baripada,Baripada$^/16,Other City
+ODISHA,Baleshwar (M),Sardarshahar,OR,16,Baleshwar,Baleshwar$^/16,Other City
+ODISHA,Bhadrak (M),Sardhana,OR,16,Bhadrak,Bhadrak$^/16,Other City
+ODISHA,Puri (M),Sarni,OR,168,Puri,Puri$^/168,Other City
+ODISHA,Brahmapur (M Corp.),Sasaram,OR,16,Brahmapur,Brahmapur$^/16,Other City
+PUDUCHERRY,Puducherry (M),Satara,PY,168,Puducherry,Puducherry$^/168,Other City
+PUDUCHERRY,Ozhukarai (M),Sathuvachari,PY,168,Ozhukarai,Ozhukarai$^/168,Other City
+PUNJAB,Pathankot (M Cl),Satna,PB,168,Pathankot,Pathankot$^/168,Other City
+PUNJAB,Batala (M Cl),Sattenapalle,PB,16,Batala,Batala$^/16,Other City
+PUNJAB,Hoshiarpur (M Cl),Savarkundla,PB,86,Hoshiarpur,Hoshiarpur$^/86,Other City
+PUNJAB,Khanna (M Cl),Sawai Madhopur,PB,119,Khanna,Khanna$^/119,Other City
+PUNJAB,Moga (M Cl),Sehore,PB,134,Moga,Moga$^/134,Other City
+PUNJAB,Firozpur (M Cl),Sendhwa,PB,74,Firozpur,Firozpur$^/74,Other City
+PUNJAB,Muktsar (M Cl),Seoni,PB,168,Muktsar,Muktsar$^/168,Other City
+PUNJAB,Bathinda (M Corp.),Serampore,PB,16,Bathinda,Bathinda$^/16,Other City
+PUNJAB,Patiala (M Corp.),Shahabad,PB,168,Patiala,Patiala$^/168,Other City
+PUNJAB,S.A.S. Nagar (Mohali) (M Cl),Shahade,PB,215,S.A.S. Nagar (Mohali),S.A.S. Nagar (Mohali)$^/215,Other City
+PUNJAB,Malerkotla (M Cl),Shahdol,PB,134,Malerkotla,Malerkotla$^/134,Other City
+PUNJAB,Barnala (M Cl),Shahjahanpur,PB,16,Barnala,Barnala$^/16,Other City
+RAJASTHAN,Ganganagar (M Cl),Shahpur,RJ,74,Ganganagar,Ganganagar$^/74,Other City
+RAJASTHAN,Hanumangarh (M Cl),Shajapur,RJ,86,Hanumangarh,Hanumangarh$^/86,Other City
+RAJASTHAN,Churu (M Cl),Shamli,RJ,55,Churu,Churu$^/55,Other City
+RAJASTHAN,Sujangarh (M),Shegaon,RJ,238,Sujangarh,Sujangarh$^/238,Other City
+RAJASTHAN,Jhunjhunun (M Cl),Sheikhpura,RJ,98,Jhunjhunun,Jhunjhunun$^/98,Other City
+RAJASTHAN,Bhiwadi (M),Sheopur,RJ,16,Bhiwadi,Bhiwadi$^/16,Other City
+RAJASTHAN,Bharatpur (M Cl)  ,Sherkot,RJ,16,Bharatpur,Bharatpur$^/16,Other City
+RAJASTHAN,Dhaulpur (M),Shikohabad,RJ,55,Dhaulpur,Dhaulpur$^/55,Other City
+RAJASTHAN,Hindaun (M),Shillong,RJ,86,Hindaun,Hindaun$^/86,Other City
+RAJASTHAN,Gangapur City (M),Shimla,RJ,74,Gangapur City,Gangapur City$^/74,Other City
+RAJASTHAN,Sawai Madhopur (M),Shimoga,RJ,231,Sawai Madhopur,Sawai Madhopur$^/231,Other City
+RAJASTHAN,Sikar (M Cl),Shirpur-Warwade,RJ,231,Sikar,Sikar$^/231,Other City
+RAJASTHAN,Nagaur (M),Shivpuri,RJ,168,Nagaur,Nagaur$^/168,Other City
+RAJASTHAN,Pali (M Cl),Shorapur,RJ,168,Pali,Pali$^/168,Other City
+RAJASTHAN,Kishangarh (M Cl),Shrirampur,RJ,119,Kishangarh,Kishangarh$^/119,Other City
+RAJASTHAN,Beawar (M Cl),Shujalpur,RJ,16,Beawar,Beawar$^/16,Other City
+RAJASTHAN,Tonk (M Cl),Siddipet,RJ,238,Tonk,Tonk$^/238,Other City
+RAJASTHAN,Bundi (M),Sidhi,RJ,16,Bundi,Bundi$^/16,Other City
+RAJASTHAN,Bhilwara (M Cl),Sidhpur,RJ,16,Bhilwara,Bhilwara$^/16,Other City
+RAJASTHAN,Chittaurgarh (M),Sidlaghatta,RJ,16,Chittaurgarh,Chittaurgarh$^/16,Other City
+RAJASTHAN,Baran (M),Sihor,RJ,16,Baran,Baran$^/16,Other City
+RAJASTHAN,Udaipur (M Cl),Sikandrabad,RJ,238,Udaipur,Udaipur$^/238,Other City
+SIKKIM,Gangtok (M Corp.),Sikar,SK,74,Gangtok,Gangtok$^/74,Other City
+TAMIL NADU,Avadi (M),Silapathar,TN,16,Avadi,Avadi$^/16,Other City
+TAMIL NADU,Ambattur (M),Silchar,TN,11,Ambattur,Ambattur$^/11,Other City
+TAMIL NADU,Tiruvottiyur (M),Sillod,TN,238,Tiruvottiyur,Tiruvottiyur$^/238,Other City
+TAMIL NADU,Madavaram (M),Silvassa,TN,134,Madavaram,Madavaram$^/134,Other City
+TAMIL NADU,Tambaram (M),Sindhnur,TN,238,Tambaram,Tambaram$^/238,Other City
+TAMIL NADU,Pallavaram (M),Singrauli,TN,168,Pallavaram,Pallavaram$^/168,Other City
+TAMIL NADU,Kancheepuram (M),Sinnar,TN,119,Kancheepuram,Kancheepuram$^/119,Other City
+TAMIL NADU,Vellore (M. Corp),Sira,TN,236,Vellore,Vellore$^/236,Other City
+TAMIL NADU,Ambur (M),Sircilla,TN,11,Ambur,Ambur$^/11,Other City
+TAMIL NADU,Tiruvannamalai (M),Sirhind Fatehgarh Sahib,TN,238,Tiruvannamalai,Tiruvannamalai$^/238,Other City
+TAMIL NADU,Erode (M.Corp),Sironj,TN,74,Erode,Erode$^/74,Other City
+TAMIL NADU,Dindigul (M),Sirsa,TN,55,Dindigul,Dindigul$^/55,Other City
+TAMIL NADU,Cuddalore (M),Sirsi,TN,55,Cuddalore,Cuddalore$^/55,Other City
+TAMIL NADU,Nagapattinam (M),Siruguppa,TN,168,Nagapattinam,Nagapattinam$^/168,Other City
+TAMIL NADU,Kumbakonam (M),Sitamarhi,TN,119,Kumbakonam,Kumbakonam$^/119,Other City
+TAMIL NADU,Thanjavur (M),Sitapur,TN,238,Thanjavur,Thanjavur$^/238,Other City
+TAMIL NADU,Pudukkottai (M),Sitarganj,TN,168,Pudukkottai,Pudukkottai$^/168,Other City
+TAMIL NADU,Karaikkudi (M),Sivakasi,TN,119,Karaikkudi,Karaikkudi$^/119,Other City
+TAMIL NADU,Rajapalayam (M),Sivasagar,TN,168,Rajapalayam,Rajapalayam$^/168,Other City
+TAMIL NADU,Thoothukkudi (M Corp.),Siwan,TN,238,Thoothukkudi,Thoothukkudi$^/238,Other City
+TAMIL NADU,Tirunelveli (M Corp.),Solan,TN,238,Tirunelveli,Tirunelveli$^/238,Other City
+TAMIL NADU,Nagercoil (M),Sonipat,TN,168,Nagercoil,Nagercoil$^/168,Other City
+TAMIL NADU,Hosur (M),Sopore,TN,86,Hosur,Hosur$^/86,Other City
+TAMIL NADU,Kurichi (M),South DumDum,TN,119,Kurichi,Kurichi$^/119,Other City
+TAMIL NADU,Tiruppur (M.Corp),Srikakulam,TN,238,Tiruppur,Tiruppur$^/238,Other City
+TELANGANA,Nizamabad (M Corp.),Srikalahasti,TS,168,Nizamabad,Nizamabad$^/168,Other City
+TELANGANA,Ramagundam (M),Srivilliputhur,TS,168,Ramagundam,Ramagundam$^/168,Other City
+TELANGANA,Karimnagar (M Corp.),Sujangarh,TS,119,Karimnagar,Karimnagar$^/119,Other City
+TELANGANA,Mahbubnagar (M),Sultanganj,TS,134,Mahbubnagar,Mahbubnagar$^/134,Other City
+TELANGANA,Suryapet (M),Sultanpur,TS,238,Suryapet,Suryapet$^/238,Other City
+TELANGANA,Nalgonda (M),Sunabeda,TS,168,Nalgonda,Nalgonda$^/168,Other City
+TELANGANA,Miryalaguda (M),Sunam Udham Singh Wala,TS,134,Miryalaguda,Miryalaguda$^/134,Other City
+TELANGANA,Khammam (M),Supaul,TS,119,Khammam,Khammam$^/119,Other City
+UTTAR PRADESH,Shamli (NPP),Suratgarh,UP,231,Shamli,Shamli$^/231,Other City
+UTTAR PRADESH,Muzaffarnagar (NPP),Surendranagar Dudhrej,UP,168,Muzaffarnagar,Muzaffarnagar$^/168,Other City
+UTTAR PRADESH,Sambhal (NPP),Suri,UP,223,Sambhal,Sambhal$^/223,Other City
+UTTAR PRADESH,Chandausi (NPP),Suryapet,UP,16,Chandausi,Chandausi$^/16,Other City
+UTTAR PRADESH,Rampur (NPP),Tadepalle,UP,168,Rampur,Rampur$^/168,Other City
+UTTAR PRADESH,Amroha (NPP),Tadepalligudem,UP,11,Amroha,Amroha$^/11,Other City
+UTTAR PRADESH,Baraut (NPP),Tadpatri,UP,16,Baraut,Baraut$^/16,Other City
+UTTAR PRADESH,Modinagar (NPP),Talegaon Dabhade,UP,134,Modinagar,Modinagar$^/134,Other City
+UTTAR PRADESH,Hapur (NPP),Taliparamba,UP,86,Hapur,Hapur$^/86,Other City
+UTTAR PRADESH,Bulandshahr (NPP),Tambaram,UP,16,Bulandshahr,Bulandshahr$^/16,Other City
+UTTAR PRADESH,Khurja (NPP),Tamluk,UP,119,Khurja,Khurja$^/119,Other City
+UTTAR PRADESH,Hathras (NPP),Tanda,UP,86,Hathras,Hathras$^/86,Other City
+UTTAR PRADESH,Mathura (NPP),Tandur,UP,134,Mathura,Mathura$^/134,Other City
+UTTAR PRADESH,Shikohabad (NPP),Tanuku,UP,231,Shikohabad,Shikohabad$^/231,Other City
+UTTAR PRADESH,Mainpuri (NPP),Tarn Taran,UP,134,Mainpuri,Mainpuri$^/134,Other City
+UTTAR PRADESH,Budaun (NPP),Teghra,UP,16,Budaun,Budaun$^/16,Other City
+UTTAR PRADESH,Pilibhit (NPP),Tenali,UP,168,Pilibhit,Pilibhit$^/168,Other City
+UTTAR PRADESH,Shahjahanpur (NPP),Tenkasi,UP,231,Shahjahanpur,Shahjahanpur$^/231,Other City
+UTTAR PRADESH,Lakhimpur (NPP),Tezpur,UP,119,Lakhimpur,Lakhimpur$^/119,Other City
+UTTAR PRADESH,Sitapur (NPP),Thalassery,UP,238,Sitapur,Sitapur$^/238,Other City
+UTTAR PRADESH,Hardoi (NPP),Thanesar,UP,86,Hardoi,Hardoi$^/86,Other City
+UTTAR PRADESH,Unnao (NPP),Thanjavur,UP,236,Unnao,Unnao$^/236,Other City
+UTTAR PRADESH,Rae Bareli (NPP),Thanthoni,UP,168,Rae Bareli,Rae Bareli$^/168,Other City
+UTTAR PRADESH,Farrukhabad-cum-Fatehgarh (NPP),Theni Allinagaram,UP,74,Farrukhabad-cum-Fatehgarh,Farrukhabad-cum-Fatehgarh$^/74,Other City
+UTTAR PRADESH,Etawah (NPP),Thirumangalam,UP,74,Etawah,Etawah$^/74,Other City
+UTTAR PRADESH,Orai (NPP),Thiruthangal,UP,168,Orai,Orai$^/168,Other City
+UTTAR PRADESH,Lalitpur (NPP),Thiruvalla,UP,119,Lalitpur,Lalitpur$^/119,Other City
+UTTAR PRADESH,Banda (NPP),Thiruvallur,UP,16,Banda,Banda$^/16,Other City
+UTTAR PRADESH,Fatehpur (NPP),Thiruvarur,UP,74,Fatehpur,Fatehpur$^/74,Other City
+UTTAR PRADESH,Faizabad (NPP),Thodupuzha,UP,74,Faizabad,Faizabad$^/74,Other City
+UTTAR PRADESH,Sultanpur (NPP),Thoothukkudi,UP,238,Sultanpur,Sultanpur$^/238,Other City
+UTTAR PRADESH,Bahraich (NPP),Thoubal,UP,16,Bahraich,Bahraich$^/16,Other City
+UTTAR PRADESH,Gonda (NPP),Thrippunithura,UP,74,Gonda,Gonda$^/74,Other City
+UTTAR PRADESH,Basti (NPP),Thrissur,UP,16,Basti,Basti$^/16,Other City
+UTTAR PRADESH,Deoria (NPP),Tikamgarh,UP,55,Deoria,Deoria$^/55,Other City
+UTTAR PRADESH,Azamgarh (NPP),Tilhar,UP,16,Azamgarh,Azamgarh$^/16,Other City
+UTTAR PRADESH,Maunath Bhanjan (NPP),Tindivanam,UP,134,Maunath Bhanjan,Maunath Bhanjan$^/134,Other City
+UTTAR PRADESH,Ballia (NPP),Tinsukia,UP,16,Ballia,Ballia$^/16,Other City
+UTTAR PRADESH,Jaunpur (NPP),Tiptur,UP,98,Jaunpur,Jaunpur$^/98,Other City
+UTTAR PRADESH,Ghazipur (NPP),Tiruchengode,UP,74,Ghazipur,Ghazipur$^/74,Other City
+UTTAR PRADESH,Mughalsarai (NPP),Tirunelveli,UP,168,Mughalsarai,Mughalsarai$^/168,Other City
+UTTAR PRADESH,Mirzapur-cum-Vindhyachal (NPP),Tirupathur,UP,134,Mirzapur-cum-Vindhyachal,Mirzapur-cum-Vindhyachal$^/134,Other City
+UTTAR PRADESH,Etah (NPP),Tirupati,UP,74,Etah,Etah$^/74,Other City
+UTTAR PRADESH,Kasganj (NPP),Tiruppur,UP,119,Kasganj,Kasganj$^/119,Other City
+UTTARAKHAND,Haldwani-cum-Kathgodam (NPP),Tirur,UK,86,Haldwani-cum-Kathgodam,Haldwani-cum-Kathgodam$^/86,Other City
+UTTARAKHAND,Kashipur (NPP),Tiruvannamalai,UK,119,Kashipur,Kashipur$^/119,Other City
+UTTARAKHAND,Rudrapur (NPP),Tiruverkadu,UK,215,Rudrapur,Rudrapur$^/215,Other City
+UTTARAKHAND,Roorkee (NPP),Tiruvottiyur,UK,215,Roorkee,Roorkee$^/215,Other City
+UTTARAKHAND,Hardwar (NPP),Titagarh,UK,86,Hardwar,Hardwar$^/86,Other City
+WEST BENGAL,Darjiling (M),Tohana,WB,55,Darjiling,Darjiling$^/55,Other City
+WEST BENGAL,Jalpaiguri (M),Tonk,WB,86,Jalpaiguri,Jalpaiguri$^/86,Other City
+WEST BENGAL,Raiganj (M),Tuensang,WB,168,Raiganj,Raiganj$^/168,Other City
+WEST BENGAL,Balurghat (M),Tumkur,WB,16,Balurghat,Balurghat$^/16,Other City
+WEST BENGAL,English Bazar (M),Tundla,WB,74,English Bazar,English Bazar$^/74,Other City
+WEST BENGAL,Berhampore (M),Tuni,WB,16,Berhampore,Berhampore$^/16,Other City
+WEST BENGAL,Kulti (M),Tura,WB,119,Kulti,Kulti$^/119,Other City
+WEST BENGAL,Jamuria (M),Udaipur,WB,98,Jamuria,Jamuria$^/98,Other City
+WEST BENGAL,Raniganj (M),Udaipur,WB,168,Raniganj,Raniganj$^/168,Other City
+WEST BENGAL,Barddhaman (M),Udgir,WB,16,Barddhaman,Barddhaman$^/16,Other City
+WEST BENGAL,Nabadwip (M),Udhagamandalam,WB,168,Nabadwip,Nabadwip$^/168,Other City
+WEST BENGAL,Krishnanagar (M),Udhampur,WB,119,Krishnanagar,Krishnanagar$^/119,Other City
+WEST BENGAL,Santipur (M),Udumalaipettai ,WB,223,Santipur,Santipur$^/223,Other City
+WEST BENGAL,Kalyani (M),Udupi,WB,119,Kalyani,Kalyani$^/119,Other City
+WEST BENGAL,Bongaon (M),Ujhani,WB,16,Bongaon,Bongaon$^/16,Other City
+WEST BENGAL,Halisahar (M),Ullal,WB,86,Halisahar,Halisahar$^/86,Other City
+WEST BENGAL,Kanchrapara (M),Uluberia,WB,119,Kanchrapara,Kanchrapara$^/119,Other City
+WEST BENGAL,Naihati (M),Umred,WB,168,Naihati,Naihati$^/168,Other City
+WEST BENGAL,Bhatpara (M),Una,WB,16,Bhatpara,Bhatpara$^/16,Other City
+WEST BENGAL,Habra (M),Unjha,WB,86,Habra,Habra$^/86,Other City
+WEST BENGAL,Ashokenagar Kalyangarh (M),Unnao,WB,16,Ashokenagar Kalyangarh,Ashokenagar Kalyangarh$^/16,Other City
+WEST BENGAL,North Barrackpore (M),Upleta,WB,168,North Barrackpore,North Barrackpore$^/168,Other City
+WEST BENGAL,Barrackpore (M),Uran Islampur,WB,16,Barrackpore,Barrackpore$^/16,Other City
+WEST BENGAL,Titagarh (M),Uttarpara Kotrung,WB,238,Titagarh,Titagarh$^/238,Other City
+WEST BENGAL,Khardah (M),Vadakara,WB,119,Khardah,Khardah$^/119,Other City
+WEST BENGAL,Panihati (M),Valparai,WB,168,Panihati,Panihati$^/168,Other City
+WEST BENGAL,Barasat (M),Valsad,WB,16,Barasat,Barasat$^/16,Other City
+WEST BENGAL,Madhyamgram (M),Vaniyambadi,WB,134,Madhyamgram,Madhyamgram$^/134,Other City
+WEST BENGAL,North DumDum (M),Vapi,WB,168,North DumDum,North DumDum$^/168,Other City
+WEST BENGAL,Kamarhati (M),Veerappanchatiram,WB,119,Kamarhati,Kamarhati$^/119,Other City
+WEST BENGAL,Baranagar (M),Velampalayam,WB,16,Baranagar,Baranagar$^/16,Other City
+WEST BENGAL,Dum Dum (M),Vellore,WB,55,Dum Dum,Dum Dum$^/55,Other City
+WEST BENGAL,South DumDum (M),Venkatagiri,WB,238,South DumDum,South DumDum$^/238,Other City
+WEST BENGAL,Rajarhat Gopalpur (M),Veraval,WB,168,Rajarhat Gopalpur,Rajarhat Gopalpur$^/168,Other City
+WEST BENGAL,Bidhannagar (M),Vicarabad,WB,16,Bidhannagar,Bidhannagar$^/16,Other City
+WEST BENGAL,Basirhat (M),Vidisha,WB,16,Basirhat,Basirhat$^/16,Other City
+WEST BENGAL,Bansberia (M),Vijalpor,WB,16,Bansberia,Bansberia$^/16,Other City
+WEST BENGAL,Hugli-Chinsurah (M),Viluppuram,WB,86,Hugli-Chinsurah,Hugli-Chinsurah$^/86,Other City
+WEST BENGAL,Chandannagar (M Corp),Vinukonda,WB,16,Chandannagar,Chandannagar$^/16,Other City
+WEST BENGAL,Bhadreswar (M),Viramgam,WB,16,Bhadreswar,Bhadreswar$^/16,Other City
+WEST BENGAL,Champdani (M),Virudhachalam,WB,16,Champdani,Champdani$^/16,Other City
+WEST BENGAL,Baidyabati (M),Virudhunagar,WB,16,Baidyabati,Baidyabati$^/16,Other City
+WEST BENGAL,Serampore (M),Visnagar,WB,231,Serampore,Serampore$^/231,Other City
+WEST BENGAL,Rishra (M),Vizianagaram,WB,215,Rishra,Rishra$^/215,Other City
+WEST BENGAL,Uttarpara Kotrung (M),Vrindavan,WB,236,Uttarpara Kotrung,Uttarpara Kotrung$^/236,Other City
+WEST BENGAL,Bankura (M),Wadhwan,WB,16,Bankura,Bankura$^/16,Other City
+WEST BENGAL,Puruliya (M),Wanaparthy,WB,168,Puruliya,Puruliya$^/168,Other City
+WEST BENGAL,Bally (M),Wani,WB,16,Bally,Bally$^/16,Other City
+WEST BENGAL,Uluberia (M),Wardha,WB,236,Uluberia,Uluberia$^/236,Other City
+WEST BENGAL,Maheshtala (M),Washim,WB,134,Maheshtala,Maheshtala$^/134,Other City
+WEST BENGAL,Rajpur Sonarpur (M),Wokha,WB,168,Rajpur Sonarpur,Rajpur Sonarpur$^/168,Other City
+WEST BENGAL,Medinipur (M),Yadgir,WB,134,Medinipur,Medinipur$^/134,Other City
+WEST BENGAL,Kharagpur (M),Yamunanagar,WB,119,Kharagpur,Kharagpur$^/119,Other City
+WEST BENGAL,Haldia (M),Yanam,WB,86,Haldia,Haldia$^/86,Other City
+WEST BENGAL,Rajpur Sonarpur (M),Yavatmal,WB,168,Rajpur Sonarpur,Rajpur Sonarpur$^/168,Other City
+WEST BENGAL,Medinipur (M),Yemmiganur,WB,134,Medinipur,Medinipur$^/134,Other City
+WEST BENGAL,Kharagpur (M),Zahirabad,WB,119,Kharagpur,Kharagpur$^/119,Other City
+WEST BENGAL,Haldia (M),Zirakpur,WB,86,Haldia,Haldia$^/86,Other City
